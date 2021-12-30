@@ -1,49 +1,98 @@
-# [Hugo Academic Theme](https://github.com/wowchemy/starter-hugo-academic)
+# My Migration to Hugo
 
-[![Screenshot](https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-themes/main/academic.png)](https://wowchemy.com/hugo-themes/)
+This repository starts from a clone of https://github.com/wowchemy/starter-hugo-academic, where the original README.md can be found.
 
-The Hugo **Academic Resumé Template** empowers you to easily create your job-winning online resumé, showcase your academic publications, and create online courses or knowledge bases to grow your audience.
+## Install Hugo
 
-[![Get Started](https://img.shields.io/badge/-Get%20started-ff4655?style=for-the-badge)](https://wowchemy.com/hugo-themes/)
-[![Discord](https://img.shields.io/discord/722225264733716590?style=for-the-badge)](https://discord.com/channels/722225264733716590/742892432458252370/742895548159492138)  
-[![Twitter Follow](https://img.shields.io/twitter/follow/wowchemy?label=Follow%20on%20Twitter)](https://twitter.com/wowchemy)
+I did it on Windows 10 following https://wowchemy.com/docs/getting-started/install-hugo-extended/#windows
 
-️**Trusted by 250,000+ researchers, educators, and students.** Highly customizable via the integrated **no-code, widget-based Wowchemy page builder**, making every site truly personalized ⭐⭐⭐⭐⭐
+1. Open the Windows Powershell 5 app, installing it if necessary.
+2. Install Scoop, the package manager for Windows, by pasting the following commands into Powershell and pressing the Enter ↵ key:
 
-Easily write technical content with plain text Markdown, LaTeX math, diagrams, RMarkdown, or Jupyter, and import publications from BibTeX.
+    ```sh
+    Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
+    iwr -useb get.scoop.sh | iex
+    ```
 
-[Check out the latest demo](https://academic-demo.netlify.app/) of what you'll get in less than 10 minutes, or [get inspired by our academics and research groups](https://wowchemy.com/creators/).
+    Press Y and enter if asked Do you want to change the execution policy?.
+3. Install Hugo and its dependencies:
 
-The integrated [**Wowchemy**](https://wowchemy.com) website builder and CMS makes it easy to create a beautiful website for free. Edit your site in the CMS (or your favorite editor), generate it with [Hugo](https://github.com/gohugoio/hugo), and deploy with GitHub or Netlify. Customize anything on your site with widgets, light/dark themes, and language packs.
+    ```sh
+    scoop install git go hugo-extended
+    ```
 
-- 👉 [**Get Started**](https://wowchemy.com/hugo-themes/)
-- 📚 [View the **documentation**](https://wowchemy.com/docs/)
-- 💬 [Chat with the **Wowchemy research community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
-- 🐦 Twitter: [@wowchemy](https://twitter.com/wowchemy) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [#MadeWithWowchemy](https://twitter.com/search?q=(%23MadeWithWowchemy%20OR%20%23MadeWithAcademic)&src=typed_query)
-- ⬇️ **Automatically import your publications from BibTeX** with the [Hugo Academic CLI](https://github.com/wowchemy/hugo-academic-cli) 
-- 💡 [Suggest an improvement](https://github.com/wowchemy/wowchemy-hugo-themes/issues)
-- ⬆️ **Updating?** View the [Update Guide](https://wowchemy.com/docs/hugo-tutorials/update/) and [Release Notes](https://github.com/wowchemy/wowchemy-hugo-themes/releases)
+## Clone starter-hugo-academic
 
-## We ask you, humbly, to support this open source movement
+Follow https://lakemper.eu/blog/getting-started-with-hugo-academic-and-github-pages/
 
-Today we ask you to defend the open source independence of the Wowchemy website builder and themes 🐧
+Create a new (private/public) repository on GitHub, e.g., hugo-academic
 
-We're an open source movement that depends on your support to stay online and thriving, but 99.9% of our creators don't give; they simply look the other way.
+Clone https://github.com/wowchemy/starter-hugo-academic
+```sh
+git clone https://github.com/wowchemy/starter-hugo-academic hugo-academic
+cd hugo-academic
+git remote set-url origin https://github.com/haipinglu/hugo-academic
+git push
+```
 
-### [❤️ Click here to become a GitHub Sponsor, unlocking awesome perks such as _exclusive academic templates and widgets_](https://github.com/sponsors/gcushen)
+Then rename `master` to `main` and follow the instructions on github.
 
-<p align="center"><a href="https://wowchemy.com/templates/" target="_blank" rel="noopener"><img src="https://wowchemy.com/uploads/readmes/academic_logo_200px.png" alt="Hugo Academic Theme for Wowchemy Website Builder"></a></p>
+Then,
 
-## Demo image credits
+```sh
+git submodule update --init --recursive
+```
 
-- [Open book](https://unsplash.com/photos/J4kK8b9Fgj8)
-- [Course](https://unsplash.com/photos/JKUTrJ4vK00)
+If `hugo` now, several security errors will be reported. I had a hard time with this. Eventually, by Googling *"WC_POST_CSS" is not whitelisted in policy "security.funcs.getenv"*, I found the solution at https://stackoverflow.com/questions/70429317/blogdownserve-site-fails-to-produce-template-site:
 
-## Latest news
-<!--START_SECTION:news-->
-* [What&#39;s new in v5.2?](https:&#x2F;&#x2F;wowchemy.com&#x2F;blog&#x2F;v5.2.0&#x2F;)
-* [What&#39;s new in v5.1?](https:&#x2F;&#x2F;wowchemy.com&#x2F;blog&#x2F;v5.1.0&#x2F;)
-* [Version 5.0 (February 2021)](https:&#x2F;&#x2F;wowchemy.com&#x2F;blog&#x2F;v5.0.0&#x2F;)
-* [Version 5.0 Beta 3 (February 2021)](https:&#x2F;&#x2F;wowchemy.com&#x2F;blog&#x2F;v5.0.0-beta.3&#x2F;)
-* [Version 5.0 Beta 2 (January 2021)](https:&#x2F;&#x2F;wowchemy.com&#x2F;blog&#x2F;v5.0.0-beta.2&#x2F;)
-<!--END_SECTION:news-->
+The config file is config/_default/config.yaml in your website project. Add
+```sh
+security:
+  funcs:
+    getenv:
+      - ^HUGO_
+      - ^WC_
+```
+to it to whitelist the environment variable `WC_POST_CSS`.
+
+Therefore, I followed the above to add the security config to the end of the config file. Now it works perfectly.
+
+## Deploy on GitHub Pages (can be skipped)
+
+Follow https://levelup.gitconnected.com/build-a-personal-website-with-github-pages-and-hugo-6c68592204c7
+
+```sh
+hugo
+cd public
+git init -b main
+git add .
+git remote add origin https://github.com/haipinglu/haipinglu.github.io.git
+git pull origin main
+git commit -m “add Hugo content”
+git push origin main
+```
+
+## Hugo Action for auto deployment
+
+Follow https://github.com/peaceiris/actions-hugo, https://github.com/peaceiris/actions-gh-pages#%EF%B8%8F-create-ssh-deploy-key, https://github.com/peaceiris/actions-gh-pages#%EF%B8%8F-create-ssh-deploy-key,  and https://medium.com/@asishrs/automate-your-github-pages-deployment-using-hugo-and-actions-518b959a51f9
+
+Add `.gitmodules` and `https://github.com/peaceiris/actions-hugo`.
+
+```sh
+ssh-keygen -t ed25519 -C "h.lu@sheffield.ac.uk" -f gh-pages -N ""
+```
+
+Add the private key as a secret with name ACTIONS_DEPLOY_KEY in the Hugo Source Repository.
+Add the public key as deployment key in the GitHub pages repository
+
+## Convert old HTML to Markdown
+
+Follow https://pandoc.org/MANUAL.html
+
+```sh
+pandoc -s -o home.md home.html
+```
+
+## Manual edit
+
+With the above done, manually update and customise the files.
