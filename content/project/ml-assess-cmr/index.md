@@ -1,10 +1,10 @@
 ---
 title: Interpretable ML for Cardiac MRI
-summary: Developing a machine learning tool to improve prognostic and treatment response assessment on cardiac MRI data 
+summary: Interpretable machine learning to improve prognostic and treatment response assessment on cardiac MRI 
 tags:
 - Interpretable Machine Learning
 - Medical Imaging
-date: "2019-10-01"
+date: "2020-11-01"
 
 authors:
 - Samer Alabed

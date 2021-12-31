@@ -1,10 +1,10 @@
 ---
 title: Human-In-The-Loop DL for Cardiac CT/MRI
-summary: Interactively trained 'human-in-the-loop' deep learning approach to improve cardiac CT and MRI assessment for accurate therapy response and mortality prediction
+summary: Interactively trained 'human-in-the-loop' deep learning to improve cardiac CT/MRI assessment for accurate therapy response and mortality prediction
 tags:
 - Deep Learning
 - Medical Imaging
-date: "2021-02-01"
+date: "2021-10-01"
 
 authors:
 - Andrew Swift

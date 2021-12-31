@@ -33,6 +33,7 @@ image:
 ---
 
 [Multilinear Subspace Learning: Dimensionality Reduction of Multidimensional Data](https://www.routledge.com/Multilinear-Subspace-Learning-Dimensionality-Reduction-of-Multidimensional/Lu-Plataniotis-Venetsanopoulos/p/book/9781439857243) is a book published December 16, 2013 by Chapman and Hall/CRC in the [Chapman & Hall/CRC Press Machine Learning and Pattern Recognition Series](https://www.routledge.com/Chapman--HallCRC-Machine-Learning--Pattern-Recognition/book-series/CRCMACLEAPAT). This page provides an overview of resources concerned with theories and applications of multilinear subspace learning (MSL). 
+<img style="height:260px; float: right; margin-right: 10px" src="MSLbook_CRC_Cover.png" alt="Multilinear Subspace Learning Book">
 
 The origin of MSL traces back to multi-way analysis in the 1960s and they have been studied extensively in face and gait recognition. With more connections revealed and analogies drawn between multilinear algorithms and their linear counterparts, MSL has become an exciting area to explore for applications involving large-scale multidimensional
 (tensorial) data as well as a challenging problem for machine learning researchers to tackle.

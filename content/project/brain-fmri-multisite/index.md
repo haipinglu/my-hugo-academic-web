@@ -1,10 +1,10 @@
 ---
 title: Multisite Brain fMRI Classification
-summary: Improving multi-site autism classification based on site-dependence minimisation and second-order functional connectivity
+summary: Multi-site autism classification based on site-dependence minimisation and second-order functional connectivity
 tags:
 - Interpretable Machine Learning
 - Medical Imaging
-date: "2020-02-02"
+date: "2021-06-02"
 
 authors:
 - Shuo Zhou

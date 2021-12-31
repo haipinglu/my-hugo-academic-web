@@ -34,7 +34,7 @@ content:
   - name: Deep Learning
     tag: Deep Learning
   - name: Graph ML
-    tag: Graph Learning
+    tag: Graph Machine Learning
   - name: Bioinformatics
     tag: Bioinformatics
   

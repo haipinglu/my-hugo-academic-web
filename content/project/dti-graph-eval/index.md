@@ -2,7 +2,7 @@
 title: Low-Bias Evaluation of Drug-Target Interaction
 summary: Hierarchical clustering split for low-bias evaluation of drug-target interaction prediction
 tags:
-- Graph Learning
+- Graph Machine Learning
 - Deep Learning
 - Bioinformatics
 date: "2021-12-11"
