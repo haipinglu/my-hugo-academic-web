@@ -1,5 +1,5 @@
 ---
-title: Low-Bias Evaluation of DTI
+title: Low-Bias Evaluation of Drug-Target Interaction
 summary: Hierarchical clustering split for low-bias evaluation of drug-target interaction prediction
 tags:
 - Graph Learning

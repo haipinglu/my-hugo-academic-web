@@ -29,15 +29,15 @@ content:
     tag: '*'
   - name: Interpretable ML
     tag: Interpretable Machine Learning
-  - name: Graph ML
-    tag: Graph Learning
-  - name: Deep Learning
-    tag: Deep Learning
-  - name: Bioinformatics
-    tag: Bioinformatics
   - name: Medical Imaging
     tag: Medical Imaging
-
+  - name: Deep Learning
+    tag: Deep Learning
+  - name: Graph ML
+    tag: Graph Learning
+  - name: Bioinformatics
+    tag: Bioinformatics
+  
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
   columns: '2'

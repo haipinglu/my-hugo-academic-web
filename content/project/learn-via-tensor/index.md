@@ -1,5 +1,5 @@
 ---
-title: Learn via Tensor
+title: Learn via Tensor Model
 summary: Learn low-dimensional representations of high-dimensional data from their natural tensors
 tags:
 - Tensor
