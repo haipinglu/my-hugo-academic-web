@@ -7,10 +7,10 @@ widget: portfolio
 headless: true
 
 # Order that this section appears on the page.
-weight: 65
+weight: 30
 
-title: Projects
-subtitle: ''
+title: Research
+subtitle: 'Adventure and voyage of discovery'
 
 content:
   # Page type to display. E.g. project.
@@ -27,10 +27,16 @@ content:
   filter_button:
   - name: All
     tag: '*'
+  - name: Interpretable ML
+    tag: Interpretable Machine Learning
+  - name: Graph ML
+    tag: Graph Learning
   - name: Deep Learning
     tag: Deep Learning
-  - name: Other
-    tag: Demo
+  - name: Bioinformatics
+    tag: Bioinformatics
+  - name: Medical Imaging
+    tag: Medical Imaging
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
@@ -41,8 +47,12 @@ design:
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view: 2
+  view: 3
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
 ---
+
+We aim to develop translational AI technologies for better analysing multimodal data in healthcare and beyond, particularly multidimensional data and heterogeneous graphs in bioinformatics and medical imaging. More specifically, we build knowledge-aware machine learning tools for learning useful features from multidimensional data and analysing complex relationships in graphs/networks via tensor-based, graph-based, and related methods.
+
+A few selected research projects are listed below, which can be filtered by the tags.
