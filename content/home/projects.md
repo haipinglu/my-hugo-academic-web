@@ -55,4 +55,4 @@ design:
 
 We aim to develop translational AI technologies for better analysing multimodal data in healthcare and beyond, particularly multidimensional data and heterogeneous graphs in bioinformatics and medical imaging. More specifically, we build knowledge-aware machine learning tools for learning useful features from multidimensional data and analysing complex relationships in graphs/networks via tensor-based, graph-based, and related methods.
 
-A few selected research projects are listed below, which can be filtered by the tags.
+See selected research projects below, which can be filtered by the tags. Explore a [list of all projects >>](./project/)

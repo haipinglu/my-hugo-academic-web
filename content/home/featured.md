@@ -40,4 +40,4 @@ design:
 
 Profiles: [Google Scholar](http://scholar.google.com/citations?user=CArrsDMAAAAJ), [ResearcherID](http://www.researcherid.com/rid/B-2742-2011), [ScopusAuthorID](https://www.scopus.com/authid/detail.uri?authorId=15058100700), [Semantic Scholar](https://www.semanticscholar.org/author/Haiping-Lu/2582251). 
 
-Five recent papers are selected below. [SEE ALL PUBLICATIONS **>** ](./publication/) to filter/search.
+See selected recent papers below. [Explore all publications **>** ](./publication/) to filter/search.
