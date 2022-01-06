@@ -14,7 +14,7 @@ role: Senior Lecturer in Machine Learning
 
 # Organizations/Affiliations
 organizations:
-- name: University of Sheffield
+- name: The University of Sheffield
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -81,9 +81,8 @@ Medical Image Analysis](https://jobs.shef.ac.uk/sap/bc/webdynpro/sap/hrrcf_a_pos
 **[PhD Scholarships](https://www.sheffield.ac.uk/postgraduate/phd/scholarships)**: [Faculty scholarship](https://www.sheffield.ac.uk/postgraduate/phd/scholarships/faculty), [CSC for Chinese     applicants](https://www.sheffield.ac.uk/postgraduate/research/scholarships/csc), and [EPSRC DTP](https://epsrc.ukri.org/skills/students/dta/grants/). *Deadline: 5pm 26th Jan 2022*. Email me **ONE PDF** including CV, a statement on why, 1-3 papers, and transcripts *before* applying. Non-native English speakers need [IELTS](https://www.sheffield.ac.uk/postgraduate/phd/apply/english-language).
 ***
 I am a Senior Lecturer in Machine Learning and AI Strategy
-Lead at the [Department of Computer
-Science](http://www.sheffield.ac.uk/dcs), and
-[Insigneo](https://insigneo.org/) Research Director for Healthcare Data / AI, University of Sheffield. I am also the Machine Learning Theme Lead for Sheffield in the [N8 Centre of Excellence in Computationally Intensive Research](https://n8cir.org.uk/).
+Lead at the [Department of Computer Science](http://www.sheffield.ac.uk/dcs), and
+[Insigneo](https://insigneo.org/) Research Director for Healthcare Data / AI, the University of Sheffield. I am also the Machine Learning Theme Lead for Sheffield in the [N8 Centre of Excellence in Computationally Intensive Research](https://n8cir.org.uk/).
 
 My research focuses on *developing translational AI technologies for better analysing multimodal data in healthcare and beyond, particularly multidimensional data and heterogeneous graphs in bioinformatics and medical imaging*. I lead the development of the [PyKale library](https://github.com/pykale/pykale) to
 provide more accessible machine learning from multiple sources for
