@@ -75,8 +75,8 @@ user_groups:
 - Principal Investigators
 ---
 
-**Job**: [Postdoctoral Research Associate in Machine Learning for
-Medical Image Analysis](https://jobs.shef.ac.uk/sap/bc/webdynpro/sap/hrrcf_a_posting_apply?PARAM=cG9zdF9pbnN0X2d1aWQ9NjFCOENGODdBOTE4NEVGMEUxMDAwMDAwQUMxRTg4NzgmY2FuZF90eXBlPUVYVA%3d%3d&sap-client=400&sap-language=EN&sap-accessibility=X&sap-ep-themeroot=%2fSAP%2fPUBLIC%2fBC%2fUR%2fuos#). *Deadline: 12th Jan 2022*. Fixed term till 31st March 2023, start as soon as possible.
+<!-- **Job**: [Postdoctoral Research Associate in Machine Learning for
+Medical Image Analysis](https://jobs.shef.ac.uk/sap/bc/webdynpro/sap/hrrcf_a_posting_apply?PARAM=cG9zdF9pbnN0X2d1aWQ9NjFCOENGODdBOTE4NEVGMEUxMDAwMDAwQUMxRTg4NzgmY2FuZF90eXBlPUVYVA%3d%3d&sap-client=400&sap-language=EN&sap-accessibility=X&sap-ep-themeroot=%2fSAP%2fPUBLIC%2fBC%2fUR%2fuos#). *Deadline: 12th Jan 2022*. Fixed term till 31st March 2023, start as soon as possible. -->
 
 **[PhD Scholarships](https://www.sheffield.ac.uk/postgraduate/phd/scholarships)**: [Faculty scholarship](https://www.sheffield.ac.uk/postgraduate/phd/scholarships/faculty), [CSC for Chinese     applicants](https://www.sheffield.ac.uk/postgraduate/research/scholarships/csc), and [EPSRC DTP](https://epsrc.ukri.org/skills/students/dta/grants/). *Deadline: 5pm 26th Jan 2022*. Email me **ONE PDF** including CV, a statement on why, 1-3 papers, and transcripts *before* applying. Non-native English speakers need [IELTS](https://www.sheffield.ac.uk/postgraduate/phd/apply/english-language).
 ***
