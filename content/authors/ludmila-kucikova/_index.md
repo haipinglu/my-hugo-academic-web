@@ -36,4 +36,4 @@ user_groups:
 - Research Staff and Students
 ---
 
-Sina joined us in October 2021, working under the joint supervision of Li, Haiping, and another colleague on mechanistic neural network models of hallucinations for dementia assessment. See [her LinkedIn page](https://www.linkedin.com/in/lkucikova/?originalSubdomain=uk) for more information.
+Ludmila joined us in October 2021, working under the joint supervision of Li, Haiping, and another colleague on mechanistic neural network models of hallucinations for dementia assessment. See [her LinkedIn page](https://www.linkedin.com/in/lkucikova/?originalSubdomain=uk) for more information.
