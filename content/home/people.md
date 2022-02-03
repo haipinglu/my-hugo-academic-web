@@ -62,4 +62,7 @@ subtitle = ""
 *** -->
 
 KALE stands for Knowledge-Aware machine LEarning. We aim to leverage heterogeneous data sources and domain expert knowledge to transform real-world applications with AI and machine learning. KALE also symbolises our [**Green Machine Learning**](https://arxiv.org/abs/2106.09756) principles and health theme. See our latest group photo in Dec 2021 below or older group photos in [Jan 2020](img/group_photo_Jan2020.jpg) and [Oct 2019](img/group_photo_Oct2019.jpg). Explore brief profiles of current research staff/students, collaborators, and alumni under the group photo.
+
+**PhD Position**: No scholarship available now. Email me **ONE PDF** including CV, a statement on why and your **source of funding**, 1-3 papers, and transcripts *before* applying. Non-native English speakers need [IELTS](https://www.sheffield.ac.uk/postgraduate/phd/apply/english-language).
+
 <p align="center"> <img style="height:260px; margin-right: 10px" src="img/group_photo_Dec2021.jpg" alt="Group photo in Dec 2021"> </p>
