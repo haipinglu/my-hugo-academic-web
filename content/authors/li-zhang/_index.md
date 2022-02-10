@@ -21,8 +21,8 @@ organizations:
 bio: 
 
 interests:
-- Graph Representation Learning
-- Deep Neural Networks
+# - Graph Representation Learning
+# - Deep Neural Networks
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
