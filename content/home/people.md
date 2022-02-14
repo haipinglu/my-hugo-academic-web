@@ -61,7 +61,9 @@ subtitle = ""
 <!-- **[PhD Scholarships](https://www.sheffield.ac.uk/postgraduate/phd/scholarships)**: [Faculty scholarship](https://www.sheffield.ac.uk/postgraduate/phd/scholarships/faculty), [CSC for Chinese applicants](https://www.sheffield.ac.uk/postgraduate/research/scholarships/csc), and [EPSRC DTP](https://epsrc.ukri.org/skills/students/dta/grants/). *Deadline: 5pm 26th Jan 2022*. Email me **ONE PDF** including CV, a statement on why, 1-3 papers, and transcripts *before* applying. Check the [English language requirements](https://www.sheffield.ac.uk/postgraduate/phd/apply/english-language).
 *** -->
 
-**[PhD Scholarships](https://www.sheffield.ac.uk/postgraduate/phd/scholarships)**: [EPSRC DTP](https://epsrc.ukri.org/skills/students/dta/grants/). *Deadline: 24th March 2022*. Email me **ONE PDF** including CV, a statement on why, 1-3 papers, and transcripts *before* applying. Check the [English language requirements](https://www.sheffield.ac.uk/postgraduate/phd/apply/english-language).
+**PhD enquiries**: Email me **ONE PDF** including CV, a statement on why and your **source of funding**, 1-3 papers, and transcripts *before* applying. Also check the [English language requirements](https://www.sheffield.ac.uk/postgraduate/phd/apply/english-language).
+
+**[PhD Scholarship](https://www.sheffield.ac.uk/postgraduate/phd/scholarships)**: [EPSRC DTP](https://epsrc.ukri.org/skills/students/dta/grants/) (*deadline: 24th March 2022*).
 ***
 
 KALE stands for Knowledge-Aware machine LEarning. We aim to leverage heterogeneous data sources and domain expert knowledge to transform real-world applications with AI and machine learning. KALE also symbolises our [**Green Machine Learning**](https://arxiv.org/abs/2106.09756) principles and health theme. See our latest group photo in Dec 2021 below or older group photos in [Jan 2020](img/group_photo_Jan2020.jpg) and [Oct 2019](img/group_photo_Oct2019.jpg). Explore brief profiles of current research staff/students, collaborators, and alumni under the group photo.
