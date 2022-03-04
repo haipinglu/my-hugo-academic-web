@@ -21,8 +21,8 @@ organizations:
 bio: 
 
 interests:
-- Feature Selection/Integration
-- Multiomics
+- Feature Selection for Big Data
+- Multi-omics Data Integration
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -35,4 +35,4 @@ user_groups:
 - Research Staff and Students
 ---
 
-Sina joined us in November 2021. He has rich industrial experience and has built a feature selection library from his Master's work. See [his LinkedIn page](https://www.linkedin.com/in/sina-tabakhi/?originalSubdomain=uk) for more information.
+Sina joined us in November 2021. Before joining our team, he had worked in the industry as a software engineer for five years. Sina has also developed a feature selection tool, [KFST](https://kfst.uok.ac.ir/), from his Master's work. He has started conducting research on multi-omics data integration by feature selection to obtain a deep understanding of molecular mechanisms. See [his homepage](https://sinatabakhi.github.io/) for more information. 
