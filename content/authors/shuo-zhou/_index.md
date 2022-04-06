@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Academic Fellow (past PhD Student) 
+role: Academic Fellow at University of Sheffield (past PhD Student) 
 
 # Organizations/Affiliations
 organizations:
@@ -20,9 +20,9 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
-interests:
-- Transfer Learning
-- Brain/Cardiac Image Analysis
+# interests:
+# - Transfer Learning
+# - Brain/Cardiac Image Analysis
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
