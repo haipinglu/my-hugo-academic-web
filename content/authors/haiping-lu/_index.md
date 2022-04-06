@@ -81,8 +81,8 @@ Medical Image Analysis](https://jobs.shef.ac.uk/sap/bc/webdynpro/sap/hrrcf_a_pos
 <!-- **[PhD Scholarships](https://www.sheffield.ac.uk/postgraduate/phd/scholarships)**: [Faculty scholarship](https://www.sheffield.ac.uk/postgraduate/phd/scholarships/faculty), [CSC for Chinese applicants](https://www.sheffield.ac.uk/postgraduate/research/scholarships/csc), and [EPSRC DTP](https://epsrc.ukri.org/skills/students/dta/grants/). *Deadline: 5pm 26th Jan 2022*. Email me **ONE PDF** including CV, a statement on why, 1-3 papers, and transcripts *before* applying. Check the [English language requirements](https://www.sheffield.ac.uk/postgraduate/phd/apply/english-language).
 *** -->
 
-**PhD enquiries**: Email me **ONE PDF** including CV, a statement on why and your **source of funding**, 1-3 papers, and transcripts *before* applying. Also check the [English language](https://www.sheffield.ac.uk/postgraduate/phd/apply/english-language) requirements. **[PhD Scholarship](https://www.sheffield.ac.uk/postgraduate/phd/scholarships)**: [EPSRC DTP](https://epsrc.ukri.org/skills/students/dta/grants/) (*deadline: 24th March 2022*).
-***
+<!-- **PhD enquiries**: Email me **ONE PDF** including CV, a statement on why and your **source of funding**, 1-3 papers, and transcripts *before* applying. Also check the [English language](https://www.sheffield.ac.uk/postgraduate/phd/apply/english-language) requirements. **[PhD Scholarship](https://www.sheffield.ac.uk/postgraduate/phd/scholarships)**: [EPSRC DTP](https://epsrc.ukri.org/skills/students/dta/grants/) (*deadline: 24th March 2022*).
+*** -->
 
 I am a Senior Lecturer in Machine Learning and AI Strategy Lead at the [Department of Computer Science](http://www.sheffield.ac.uk/dcs), and [Insigneo](https://insigneo.org/) Research Director for Healthcare Data / AI, the University of Sheffield. I am also the [Turing Network Development Award](https://www.turing.ac.uk/news/uk-universities-receive-first-ever-turing-network-development-awards) Lead at Sheffield and the Machine Learning Theme Lead for Sheffield in the [N8 Centre of Excellence in Computationally Intensive Research](https://n8cir.org.uk/).
 
@@ -92,5 +92,10 @@ interdisciplinary research, officially part of the [PyTorch ecosystem](https://p
 I serve as an Associate Editor of [IEEE Transactions on Neural Networks and Learning Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385), [IEEE Transactions on Cognitive and Developmental Systems](https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=7274989), and [World Scientific Annual Review of Artificial Intelligence](https://www.worldscientific.com/worldscinet/wsarai). I served as an area chair of IJCAI2021, and a senior program committee member of IJCAI and AAAI since 2018. I was a recipient of a [Turing Network Development Award](https://www.turing.ac.uk/work-turing/turing-network-development-awards-call), an [Amazon Research Award](https://ara.amazon-ml.com/recipients/#2018), an [AAAI Outstanding PC Member Award](http://www.aaai.org/Awards/conference.php), a [Hong Kong Research Grants Council Early Career Award](http://www.comp.hkbu.edu.hk/v1/?page=fac_ach&id=80), and an [IEEE CIS Outstanding PhD Dissertation Award](https://cis.ieee.org/getting-involved/awards/past-recipients#OutstandingPhDDissertationAward), and a joint-recipient of a [Wellcome Trust Innovator Award](https://wellcome.ac.uk/funding/schemes/innovator-awards-digital-technologies) and an [NIHR AI in Health and Care Award](https://www.nihr.ac.uk/documents/ai-in-health-and-care-awards-funded-projects-2020/25625#Phase_2_projects). I am a Senior Member of IEEE.
 
 Two of my MSc dissertation students received the [Fretwell-Downing Prize](https://www.sheffield.ac.uk/dcs/about-department/prizes) for the best MSc Dissertation in their respective years (P. Bai in 2017 and H. Xu in 2019).
+
+***
+**PhD enquiries**: Email me **ONE PDF** including CV, a statement on why and your **source of funding**, 1-3 papers, and transcripts *before* applying. Also check the [English language](https://www.sheffield.ac.uk/postgraduate/phd/apply/english-language) requirements.
+<!-- **[PhD Scholarship](https://www.sheffield.ac.uk/postgraduate/phd/scholarships)**: [EPSRC DTP](https://epsrc.ukri.org/skills/students/dta/grants/) (*deadline: 24th March 2022*). -->
+
 <!-- ***
 **NOTE: under construction**. -->
