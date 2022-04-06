@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Professor of Neuroimaging
+role: Professor of Neuroimaging at University of Sheffield
 
 # Organizations/Affiliations
 organizations:
