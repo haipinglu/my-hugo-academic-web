@@ -25,7 +25,7 @@ I did it on Windows 10 following https://wowchemy.com/docs/getting-started/insta
 
 Follow https://lakemper.eu/blog/getting-started-with-hugo-academic-and-github-pages/
 
-Create a new (private/public) repository on GitHub, e.g., hugo-academic
+Create a new (private/public) repository on GitHub, e.g., hugo-academic, without initializing README, .gitignore, and licence.
 
 Clone https://github.com/wowchemy/starter-hugo-academic
 ```sh
