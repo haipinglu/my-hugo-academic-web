@@ -43,7 +43,7 @@ Then,
 git submodule update --init --recursive
 ```
 
-If `hugo` now, several security errors will be reported. I had a hard time with this. Eventually, by Googling *"WC_POST_CSS" is not whitelisted in policy "security.funcs.getenv"*, I found the solution at https://stackoverflow.com/questions/70429317/blogdownserve-site-fails-to-produce-template-site:
+[*This problem is gone when last checked 17 April 2022*] If `hugo` now, several security errors will be reported. I had a hard time with this. Eventually, by Googling *"WC_POST_CSS" is not whitelisted in policy "security.funcs.getenv"*, I found the solution at https://stackoverflow.com/questions/70429317/blogdownserve-site-fails-to-produce-template-site:
 
 The config file is config/_default/config.yaml in your website project. Add
 ```sh
@@ -55,7 +55,7 @@ security:
 ```
 to it to whitelist the environment variable `WC_POST_CSS`.
 
-Therefore, I followed the above to add the security config to the end of the config file. Now it works perfectly.
+Therefore, I followed the above to add the security config to the end of the config file. Now it works perfectly. [*No need when checked 17 April 2022*] 
 
 ## Deploy on GitHub Pages (can be skipped)
 
@@ -76,10 +76,16 @@ git push origin main
 
 Follow https://github.com/peaceiris/actions-hugo, https://github.com/peaceiris/actions-gh-pages#%EF%B8%8F-create-ssh-deploy-key, https://github.com/peaceiris/actions-gh-pages#%EF%B8%8F-create-ssh-deploy-key,  and https://medium.com/@asishrs/automate-your-github-pages-deployment-using-hugo-and-actions-518b959a51f9
 
-Add `.gitmodules` and `https://github.com/peaceiris/actions-hugo`.
+<!-- Add `.gitmodules` and `https://github.com/peaceiris/actions-hugo`. -->
 
 ```sh
 ssh-keygen -t ed25519 -C "h.lu@sheffield.ac.uk" -f gh-pages -N ""
+```
+
+Or the following with `empty for no passphrase`.
+
+```sh
+ssh-keygen -t ed25519 -C "h.lu@sheffield.ac.uk" -f gh-pages
 ```
 
 Add the private key as a secret with name ACTIONS_DEPLOY_KEY in the Hugo Source Repository.
