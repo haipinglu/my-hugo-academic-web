@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Senior Research Software Engineer
+role: Senior Research Software Engineer at University of Sheffield
 
 # Organizations/Affiliations
 organizations:

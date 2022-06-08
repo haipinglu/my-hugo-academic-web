@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Student
+role: Academic Fellow at University of Sheffield (past PhD Student) 
 
 # Organizations/Affiliations
 organizations:
@@ -20,9 +20,9 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
-interests:
-- Transfer Learning
-- Brain/Cardiac Image Analysis
+# interests:
+# - Transfer Learning
+# - Brain/Cardiac Image Analysis
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -32,7 +32,8 @@ interests:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Research Staff and Students
+- Collaborators
+- Alumni
 ---
 
-Shuo has been a PhD student at the University of Sheffield since 2018. He did his MSc on domain adaptation for brain fMRI classification with Haiping in 2016/17. His research focuses on domain adaptation for medical image analysis, particularly domain-independence maximisation for multisource domain adaptation. He will start as an Academic Fellow at the University of Sheffield in 2022. See [his homepage](https://sz144.github.io/) for more information.
+Shuo is now an Academic Fellow in our department. He was a PhD student under the supervision of Haiping from March 2018 to Feb 2022. He did his MSc on domain adaptation for brain fMRI classification with Haiping in 2016/17. His research focuses on domain adaptation for medical image analysis, particularly domain-independence maximisation for multisource domain adaptation. He will start as an Academic Fellow at the University of Sheffield in 2022. See [his homepage](https://sz144.github.io/) for more information.
