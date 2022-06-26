@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: MSc Student
+role: MSc Student (PhD student at UCSD from 2022 fall)
 
 # Organizations/Affiliations
 organizations:
