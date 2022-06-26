@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Student
+role: PhD Student (now Postdoc at National University of Singapore)
 
 # Organizations/Affiliations
 organizations:

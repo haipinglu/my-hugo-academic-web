@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: BSc Student
+role: BSc Student (now at Apple)
 
 # Organizations/Affiliations
 organizations:

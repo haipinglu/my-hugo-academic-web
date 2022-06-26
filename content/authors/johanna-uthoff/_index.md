@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Postdoctoral Research Associate
+role: Postdoctoral Research Associate (now at Auto Trader)
 
 # Organizations/Affiliations
 organizations:
