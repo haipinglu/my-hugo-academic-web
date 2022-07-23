@@ -35,4 +35,4 @@ user_groups:
 - Research Staff and Students
 ---
 
-Sina joined us in November 2021. Before joining our team, he had worked in the industry as a software engineer for five years. Sina has also developed a feature selection tool, [Universal Feature Selection Tool (UniFeat)](https://unifeat.github.io/), from his Master's work. He has started conducting research on multi-omics data integration by feature selection to obtain a deep understanding of molecular mechanisms. See [his homepage](https://sinatabakhi.github.io/) for more information. 
+Sina joined us in November 2021. Before joining our team, he had worked in the industry as a software engineer for five years. Sina has also developed a feature selection tool, [Universal Feature Selection Tool (UniFeat)](https://unifeat.github.io/), from his Master's work. He has started conducting research on multi-omics data integration by feature selection to obtain a deep understanding of molecular mechanisms. See [his homepage](https://sinatabakhi.github.io/) for more information.

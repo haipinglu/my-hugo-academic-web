@@ -35,4 +35,4 @@ user_groups:
 - Research Staff and Students
 ---
 
-Peizhen started his PhD in January 2021. He did his MSc dissertation on context-aware recommender systems with Haiping and was Haiping's first student winning the best dissertation award in the department. He works on graph representation learning models for real-world drug discovery, in collaboration with an AstraZeneca team led by Bino John. See [his Google Scholar page](https://scholar.google.com/citations?user=Xj0GCwYAAAAJ&hl=en) for his publications.
+Peizhen started his PhD in January 2021. He did his MSc dissertation on context-aware recommender systems with Haiping and was Haiping's first student winning the best dissertation award in the department. He works on graph representation learning models for real-world drug discovery, in collaboration with an AstraZeneca team led by Bino John. See [his homepage](https://peizhenbai.me/) for more information.
