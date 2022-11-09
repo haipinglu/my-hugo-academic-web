@@ -1,4 +1,3 @@
-@@ -0,0 +1,39 @@
 ---
 # Display name
 title: Prasun Chandra Tripathi
