@@ -21,9 +21,9 @@ organizations:
 bio: 
 
 interests:
-- Multimodal Learning for Health Data
-- Natural Language Processing on Health Data
-- Multimodal Meta-Learning
+- Multimodal Learning
+- Meta-Learning
+- Natural Language Processing
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
