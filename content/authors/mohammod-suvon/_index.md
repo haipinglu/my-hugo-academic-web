@@ -23,7 +23,7 @@ bio:
 interests:
 - Multimodal Learning
 - Meta-Learning
-- Natural Language Processing
+- Nat. Lang. Process.
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
