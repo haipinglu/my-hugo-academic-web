@@ -9,7 +9,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Student (co-sup)
+role: Clinical Lecturer at University of Sheffield (past PhD Student) 
 
 # Organizations/Affiliations
 organizations:
@@ -31,7 +31,9 @@ interests:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Research Staff and Students
+- Collaborators
+- Alumni
+
 ---
 
 Samer started his PhD in 2019, also working as a Clinical Fellow on our Wellcome Trust project. His research focuses on development and validation of interpretable machine learning algorithms on large cohort cardiac MRI data in clinical applications. See [his profile page](https://www.sheffield.ac.uk/medicine/people/iicd/samer-alabed) for more information.

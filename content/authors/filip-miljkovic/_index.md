@@ -1,21 +1,21 @@
 ---
 # Display name
-title: Dikai Guan
+title: Filip Miljković
 
 # Username (this should match the folder name)
 authors:
-- dikai-guan
+- filip-miljkovic
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: UKRI Future Leaders Fellow at University of Sheffield
+role: Senior Scientist at AstraZeneca
 
 # Organizations/Affiliations
-organizations:
-- name: University of Sheffield
-  url: ""
+# organizations:
+# - name: University of Sheffield
+#   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -35,4 +35,4 @@ user_groups:
 - Collaborators
 ---
 
-We just started working with Dikai on material informatics. We aim to transfer the success of AI and machine learning in biological science to material science and adapt methods for drug discovery to the development of new materials. See [his profile page](https://www.sheffield.ac.uk/materials/people/academic-staff/dikai-guan) for more information.
+We started collaboration with Filip since 2021. We work on the development of (graph) machine learning algorithms for drug discovery and drug repurposing that can lead to real-world impact. See [his LinkedIn page](https://www.linkedin.com/in/fmiljkovic/) for more information.
