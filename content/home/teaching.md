@@ -9,7 +9,7 @@ title = "Teaching"
 subtitle = "Learn to teach, teach to learn"
 +++
 
-I am co-developing a course on [An Introduction to Transparent Machine Learning](https://pykale.github.io/transparentML/), part of the [Alan Turing Institute](https://www.turing.ac.uk)’s [online learning courses in responsible AI](https://www.turing.ac.uk/funding-call-online-learning-courses-responsible-ai).
+I lead the development of a course on [An Introduction to Transparent Machine Learning](https://pykale.github.io/transparentML/), part of the [Alan Turing Institute](https://www.turing.ac.uk)’s [online learning courses in responsible AI](https://www.turing.ac.uk/funding-call-online-learning-courses-responsible-ai).
 
 At the University of Sheffield, I am teaching two modules below, with teaching materials available on GitHub via links below and [video lectures on YouTube](https://www.youtube.com/c/HaipingLu/playlists). See my [CV](files/cv.pdf) for my previous teaching experience.
 
