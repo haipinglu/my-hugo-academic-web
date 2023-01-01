@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: MSc Student (PhD student at UCSD from 2022 fall)
+role: MSc Student (PhD student at UCSD)
 
 # Organizations/Affiliations
 organizations:
@@ -35,4 +35,4 @@ user_groups:
 - Alumni
 ---
 
-Hao was an MSc dissertation student working with us on predicting the side effects of taking multiple drugs (poly-pharmacy) using graph neural networks. She was Haiping's second student winning the best dissertation award in the department. She then joined our collaborator's lab in Canada as a Research Assistant to continue her researcher there. See [her LinkedIn page](https://www.linkedin.com/in/hxu999/?originalSubdomain=ca) for more information.
+Hao was an MSc dissertation student working with us on predicting the side effects of taking multiple drugs (poly-pharmacy) using graph neural networks. She was Haiping's second student winning the best dissertation award in the department. She then joined our collaborator's lab in Canada as a Research Assistant until she started her PhD study at the University of California, San Diego in 2022. See [her LinkedIn page](https://www.linkedin.com/in/hxu999/?originalSubdomain=ca) for more information.

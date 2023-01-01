@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: BSc Student
+role: BSc Student (now at Apple)
 
 # Organizations/Affiliations
 organizations:
@@ -20,10 +20,10 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
-interests:
-- Computer Vision
-- Deep Learning
-- Transformers
+# interests:
+# - Computer Vision
+# - Deep Learning
+# - Transformers
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
