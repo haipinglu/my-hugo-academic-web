@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Machine Learning
+role: Professor of Machine Learning and Turing Academic Lead
 
 # Organizations/Affiliations
 organizations:
 - name: The University of Sheffield
-  url: ""
+  url: "https://www.sheffield.ac.uk/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am a Professor of Machine Learning. I develop translational AI technologies for better analysing multimodal data in healthcare and beyond.
@@ -75,7 +75,7 @@ user_groups:
 - Principal Investigators
 ---
 
-**Job**: [FIVE 3-year Senior AI Research Engineer / AI Research Engineer positions](https://www.jobs.ac.uk/job/CYI206/senior-ai-research-engineer-ai-research-engineer). *Deadline: 24th April 2023*. Fixed term for 36 months with flexible starting date. Welcome to [register for a hybrid information session](https://forms.gle/MocZaFiyvay4gnLB6) for introduction and Q&A from 13:30 to 14:30 (UK time) on 31st March 2023.
+**Job**: [FIVE 3-year Senior AI Research Engineer / AI Research Engineer positions](https://www.jobs.ac.uk/job/CYI206/senior-ai-research-engineer-ai-research-engineer). *Deadline: 24th April 2023*. Fixed term for 36 months with flexible starting date. For more information, watch the [information session recording](https://youtu.be/2gizHKlaDqE) and check out the [Q&A summary](https://shef-aire.github.io/faq/).
 
 <!-- **Job**: [Postdoctoral Research Associate in Machine Learning for
 Medical Image Analysis](https://jobs.shef.ac.uk/sap/bc/webdynpro/sap/hrrcf_a_posting_apply?PARAM=cG9zdF9pbnN0X2d1aWQ9NjFCOENGODdBOTE4NEVGMEUxMDAwMDAwQUMxRTg4NzgmY2FuZF90eXBlPUVYVA%3d%3d&sap-client=400&sap-language=EN&sap-accessibility=X&sap-ep-themeroot=%2fSAP%2fPUBLIC%2fBC%2fUR%2fuos#). *Deadline: 12th Jan 2022*. Fixed term till 31st March 2023, start as soon as possible. -->
@@ -86,7 +86,7 @@ Medical Image Analysis](https://jobs.shef.ac.uk/sap/bc/webdynpro/sap/hrrcf_a_pos
 <!-- **PhD enquiries**: Email me **ONE PDF** including CV, a statement on why and your **source of funding**, 1-3 papers, and transcripts *before* applying. Also check the [English language](https://www.sheffield.ac.uk/postgraduate/phd/apply/english-language) requirements. **[PhD Scholarship](https://www.sheffield.ac.uk/postgraduate/phd/scholarships)**: [EPSRC DTP](https://epsrc.ukri.org/skills/students/dta/grants/) (*deadline: 24th March 2022*).
 *** -->
 
-I am a Professor of Machine Learning and AI Strategy Lead at the [Department of Computer Science](http://www.sheffield.ac.uk/dcs), and [Insigneo](https://insigneo.org/) Research Director for Healthcare Data / AI, the University of Sheffield. I am also the [Turing Network Development Award](https://www.turing.ac.uk/news/uk-universities-receive-first-ever-turing-network-development-awards) Lead at Sheffield, the Machine Learning Theme Lead for Sheffield in the [N8 Centre of Excellence in Computationally Intensive Research](https://n8cir.org.uk/), and the lead organiser of the [Alan Turing Institute](https://www.turing.ac.uk/)'s interest group on [Meta-learning for multimodal data](https://www.turing.ac.uk/research/interest-groups/meta-learning-multimodal-data) (welcome to [sign-up and join](https://forms.office.com/Pages/ResponsePage.aspx?id=p_SVQ1XklU-Knx-672OE-eUxyOQjGdZIurmvwym_4o5UOFhHNkY5WU1RVlczMjNWUVdYTDFDME1VNS4u)). I lead the development of a course on [An Introduction to Transparent Machine Learning](https://pykale.github.io/transparentML/), part of the [Alan Turing Institute](https://www.turing.ac.uk)’s [online learning courses in responsible AI](https://www.turing.ac.uk/funding-call-online-learning-courses-responsible-ai).
+I am a Professor of Machine Learning and AI Strategy Lead at the [Department of Computer Science](http://www.sheffield.ac.uk/dcs), the Turing Academic Lead, and [Insigneo](https://insigneo.org/) Research Director for Healthcare Data / AI, the University of Sheffield. I am also the Machine Learning Theme Lead for Sheffield in the [N8 Centre of Excellence in Computationally Intensive Research](https://n8cir.org.uk/) and the lead organiser of the [Alan Turing Institute](https://www.turing.ac.uk/)'s interest group on [Meta-learning for multimodal data](https://www.turing.ac.uk/research/interest-groups/meta-learning-multimodal-data) (welcome to [sign-up and join](https://forms.office.com/Pages/ResponsePage.aspx?id=p_SVQ1XklU-Knx-672OE-eUxyOQjGdZIurmvwym_4o5UOFhHNkY5WU1RVlczMjNWUVdYTDFDME1VNS4u)). I lead the development of a course on [An Introduction to Transparent Machine Learning](https://pykale.github.io/transparentML/), part of the [Alan Turing Institute](https://www.turing.ac.uk)’s [online learning courses in responsible AI](https://www.turing.ac.uk/funding-call-online-learning-courses-responsible-ai).
 
 My research focuses on *developing translational AI technologies for better analysing multimodal data in healthcare and beyond, particularly multidimensional data and heterogeneous graphs in bioinformatics and medical imaging*. I lead the development of the [PyKale library](https://github.com/pykale/pykale) to provide more accessible machine learning from multiple sources for
 interdisciplinary research, officially part of the [PyTorch ecosystem](https://pytorch.org/ecosystem/).
