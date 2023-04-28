@@ -75,7 +75,7 @@ user_groups:
 - Principal Investigators
 ---
 
-**Job**: [FIVE 3-year Senior AI Research Engineer / AI Research Engineer positions](https://www.jobs.ac.uk/job/CYI206/senior-ai-research-engineer-ai-research-engineer). *Deadline: 24th April 2023*. Fixed term for 36 months with flexible starting date. For more information, watch the [information session recording on YouTube](https://youtu.be/2gizHKlaDqE) and check out the [Q&A summary](https://shef-aire.github.io/q-and-a/).
+<!-- **Job**: [FIVE 3-year Senior AI Research Engineer / AI Research Engineer positions](https://www.jobs.ac.uk/job/CYI206/senior-ai-research-engineer-ai-research-engineer). *Deadline: 24th April 2023*. Fixed term for 36 months with flexible starting date. For more information, watch the [information session recording on YouTube](https://youtu.be/2gizHKlaDqE) and check out the [Q&A summary](https://shef-aire.github.io/q-and-a/). -->
 
 <!-- **Job**: [Postdoctoral Research Associate in Machine Learning for
 Medical Image Analysis](https://jobs.shef.ac.uk/sap/bc/webdynpro/sap/hrrcf_a_posting_apply?PARAM=cG9zdF9pbnN0X2d1aWQ9NjFCOENGODdBOTE4NEVGMEUxMDAwMDAwQUMxRTg4NzgmY2FuZF90eXBlPUVYVA%3d%3d&sap-client=400&sap-language=EN&sap-accessibility=X&sap-ep-themeroot=%2fSAP%2fPUBLIC%2fBC%2fUR%2fuos#). *Deadline: 12th Jan 2022*. Fixed term till 31st March 2023, start as soon as possible. -->
