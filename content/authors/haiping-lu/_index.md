@@ -86,7 +86,7 @@ Medical Image Analysis](https://jobs.shef.ac.uk/sap/bc/webdynpro/sap/hrrcf_a_pos
 <!-- **PhD enquiries**: Email me **ONE PDF** including CV, a statement on why and your **source of funding**, 1-3 papers, and transcripts *before* applying. Also check the [English language](https://www.sheffield.ac.uk/postgraduate/phd/apply/english-language) requirements. **[PhD Scholarship](https://www.sheffield.ac.uk/postgraduate/phd/scholarships)**: [EPSRC DTP](https://epsrc.ukri.org/skills/students/dta/grants/) (*deadline: 24th March 2022*).
 *** -->
 
-**Workshop**: Welcome to join the [First Workshop on Multimodal AI](https://multimodalai.github.io/) at Sheffield on 27th June 2023 that we are organising. **Registration deadline: 14th June 2023**.
+<!-- **Workshop**: Welcome to join the [First Workshop on Multimodal AI](https://multimodalai.github.io/) at Sheffield on 27th June 2023 that we are organising. **Registration deadline: 14th June 2023**. -->
 
 <!-- We are looking for [sponsors](https://multimodalai.github.io/sponsorship/) and [submissions](https://multimodalai.github.io/call-for-papers/). -->
 
