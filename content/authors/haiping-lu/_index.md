@@ -56,7 +56,7 @@ social:
   link: https://scholar.google.co.uk/citations?user=CArrsDMAAAAJ
 - icon: youtube
   icon_pack: fab
-  link: https://www.youtube.com/c/haipinglu//videos  
+  link: https://www.youtube.com/c/haipinglu
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/haipinglu
@@ -89,8 +89,6 @@ Medical Image Analysis](https://jobs.shef.ac.uk/sap/bc/webdynpro/sap/hrrcf_a_pos
 <!-- **Workshop**: Welcome to join the [First Workshop on Multimodal AI](https://multimodalai.github.io/) at Sheffield on 27th June 2023 that we are organising. **Registration deadline: 14th June 2023**. -->
 
 <!-- We are looking for [sponsors](https://multimodalai.github.io/sponsorship/) and [submissions](https://multimodalai.github.io/call-for-papers/). -->
-
-
 
 I am a Professor of Machine Learning, Head of AI Research Engineering, and AI Strategy Lead at the [Department of Computer Science](http://www.sheffield.ac.uk/dcs), the Turing Academic Lead, and [Insigneo](https://insigneo.org/) Research Director for Healthcare Data / AI, the University of Sheffield. I am also the Machine Learning Theme Lead for Sheffield in the [N8 Centre of Excellence in Computationally Intensive Research](https://n8cir.org.uk/) and the lead organiser of the [Alan Turing Institute](https://www.turing.ac.uk/)'s interest group on [Meta-learning for multimodal data](https://www.turing.ac.uk/research/interest-groups/meta-learning-multimodal-data) (welcome to [sign-up and join](https://forms.office.com/Pages/ResponsePage.aspx?id=p_SVQ1XklU-Knx-672OE-eUxyOQjGdZIurmvwym_4o5UOFhHNkY5WU1RVlczMjNWUVdYTDFDME1VNS4u)). I lead the development of a course on [An Introduction to Transparent Machine Learning](https://pykale.github.io/transparentML/), part of the [Alan Turing Institute](https://www.turing.ac.uk)’s [online learning courses in responsible AI](https://www.turing.ac.uk/funding-call-online-learning-courses-responsible-ai).
 
