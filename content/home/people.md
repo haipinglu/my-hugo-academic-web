@@ -69,4 +69,4 @@ KALE stands for Knowledge-Aware machine LEarning. We aim to leverage heterogeneo
 
 <!-- **Self-funded PhD Position**: Email me **ONE PDF** including CV, a statement on why and your **source of funding**, 1-3 papers, and transcripts *before* applying. Check the [English language requirements](https://www.sheffield.ac.uk/postgraduate/phd/apply/english-language). -->
 
-<p align="center"> <img style="height:260px; margin-right: 10px" src="img/group_photo_June2023.jpg" alt="Group photo in Dec 2021"> </p>
+<p align="center"> <img style="height:260px; margin-right: 10px" src="img/group_photo_June2023.jpg" alt="Group photo in June 2023"> </p>
