@@ -57,7 +57,7 @@ social:
 - icon: youtube
   icon_pack: fab
   link: https://www.youtube.com/c/haipinglu
-- icon: blogger
+- icon: blogger-b
   icon_pack: fab
   link: https://medium.com/@haipinglu/
 - icon: twitter
