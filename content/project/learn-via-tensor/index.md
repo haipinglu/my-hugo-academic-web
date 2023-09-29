@@ -5,7 +5,7 @@ tags:
 - Tensor
 - Dimension Reduction
 - Interpretable Machine Learning
-# date: "2013-12-16"
+date: "2013-12-16"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
