@@ -7,10 +7,10 @@ tags:
 - Interpretable Machine Learning
 date: "2021-12-31"
 
-authors:
-- Lawrence Schobs
-- Andrew Swift
-- Haiping Lu
+# authors:
+# - Lawrence Schobs
+# - Andrew Swift
+# - Haiping Lu
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
