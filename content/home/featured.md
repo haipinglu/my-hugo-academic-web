@@ -42,4 +42,4 @@ Profiles: [Google Scholar](http://scholar.google.com/citations?user=CArrsDMAAAAJ
 
 See an up-to-date full list of publications via the links above. Publications after Feb 2022 are not included in the list below due to lack of time to update the website.
 
-See papers selected in 2021 below. [Explore publications up to Feb 2022**>** ](./publication/) to filter/search.
+See papers selected in 2021 below. [Explore publications up to Feb 2022 **>** ](./publication/) to filter/search.
