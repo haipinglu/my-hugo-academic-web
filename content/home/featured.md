@@ -10,7 +10,7 @@ headless: true
 weight: 40
 
 title: Selected Papers
-subtitle: "[List of all publications >>](./publication/)"
+subtitle: "[List of publications before Feb 2022>>](./publication/)"
 # Learn from peer reviews 
 
 content:
