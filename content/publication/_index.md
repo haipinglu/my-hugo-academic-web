@@ -1,5 +1,5 @@
 ---
-title: Publications before Feb 2022
+title: Publications up to Feb 2022
 cms_exclude: true
 
 # View.
