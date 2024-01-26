@@ -38,6 +38,8 @@ design:
   view: 4
 ---
 
-Profiles: [Google Scholar](http://scholar.google.com/citations?user=CArrsDMAAAAJ), [ResearcherID](http://www.researcherid.com/rid/B-2742-2011), [ScopusAuthorID](https://www.scopus.com/authid/detail.uri?authorId=15058100700), [Semantic Scholar](https://www.semanticscholar.org/author/Haiping-Lu/2582251). 
+Profiles: [Google Scholar](http://scholar.google.com/citations?user=CArrsDMAAAAJ), [ResearcherID](http://www.researcherid.com/rid/B-2742-2011), [ScopusAuthorID](https://www.scopus.com/authid/detail.uri?authorId=15058100700), [Semantic Scholar](https://www.semanticscholar.org/author/Haiping-Lu/2582251).
 
-See selected recent papers below. [Explore all publications **>** ](./publication/) to filter/search.
+See an up-to-date full list of publications via the links above. Publications after Feb 2022 are not included in the list below due to lack of time to update the website.
+
+See papers selected in 2021 below. [Explore publications up to Feb 2022**>** ](./publication/) to filter/search.
