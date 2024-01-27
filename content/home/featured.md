@@ -40,6 +40,6 @@ design:
 
 Profiles: [Google Scholar](http://scholar.google.com/citations?user=CArrsDMAAAAJ), [ResearcherID](http://www.researcherid.com/rid/B-2742-2011), [ScopusAuthorID](https://www.scopus.com/authid/detail.uri?authorId=15058100700), [Semantic Scholar](https://www.semanticscholar.org/author/Haiping-Lu/2582251).
 
-See an up-to-date full list of publications via the links above. Publications after Feb 2022 are not updated on this website due to lack of time.
+See an up-to-date full list of publications in my [CV](files/cv.pdf) (from page 2). Publications after Feb 2022 are not updated on this website due to lack of time.
 
 See papers selected in 2021 below. [Explore publications up to Feb 2022 **>** ](./publication/) to filter/search.
