@@ -104,8 +104,6 @@ I serve as an Associate Editor of [IEEE Transactions on Neural Networks and Lear
 
 Three of my MSc dissertation students received the [Fretwell-Downing Prize](https://www.sheffield.ac.uk/dcs/about-department/prizes) for the best MSc Dissertation in their respective years (P. Bai in 2017, H. Xu in 2019, and M. N. I. Suvon in 2022). See the bottom for the [whereabouts](https://haipinglu.github.io/#people) of my past team members.
 
-Test
-
 ***
 **PhD enquiries**: Email me **ONE PDF** including CV, a statement on why and your **source of funding**, 1-3 papers, and transcripts *before* applying. Also check the [English language](https://www.sheffield.ac.uk/postgraduate/phd/apply/english-language) requirements.
 <!-- **[PhD Scholarship](https://www.sheffield.ac.uk/postgraduate/phd/scholarships)**: [EPSRC DTP](https://epsrc.ukri.org/skills/students/dta/grants/) (*deadline: 24th March 2022*). -->
