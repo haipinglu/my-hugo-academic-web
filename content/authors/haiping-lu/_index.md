@@ -18,7 +18,7 @@ organizations:
   url: "https://www.sheffield.ac.uk/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a Professor of Machine Learning. I develop translational AI technologies for better analysing multimodal data in healthcare and beyond.
+bio: I am a Professor of Machine Learning. I develop translational multimodal AI technologies for advancing healthcare and scientific discovery.
 
 # interests:
 # - Artificial Intelligence
