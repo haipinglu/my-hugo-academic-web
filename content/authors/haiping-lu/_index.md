@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Machine Learning, Head of AI Research Engineering, and Turing Academic Lead
+role: Incoming Director of the UK Open Multimodal AI Network, Professor of Machine Learning, and Head of AI Research Engineering
 
 # Organizations/Affiliations
 organizations:
-- name: The University of Sheffield
+- name: University of Sheffield
   url: "https://www.sheffield.ac.uk/"
 
 # Short bio (displayed in user profile at end of posts)
@@ -95,17 +95,19 @@ Medical Image Analysis](https://jobs.shef.ac.uk/sap/bc/webdynpro/sap/hrrcf_a_pos
 
 <!-- We are looking for [sponsors](https://multimodalai.github.io/sponsorship/) and [submissions](https://multimodalai.github.io/call-for-papers/). -->
 
-I am a Professor of Machine Learning and AI Strategy Lead at the [School of Computer Science](http://www.sheffield.ac.uk/cs), Founding Head of [AI Research Engineering](https://shef-aire.github.io/) at the [Centre for Machine Intelligence](https://www.sheffield.ac.uk/ai), and the Turing Academic Lead at the University of Sheffield. I am the lead organiser and founder of the [Alan Turing Institute](https://www.turing.ac.uk/)'s interest group on [Meta-learning for multimodal data](https://www.turing.ac.uk/research/interest-groups/meta-learning-multimodal-data) (welcome to [sign up and join](https://forms.office.com/Pages/ResponsePage.aspx?id=p_SVQ1XklU-Knx-672OE-eUxyOQjGdZIurmvwym_4o5UOFhHNkY5WU1RVlczMjNWUVdYTDFDME1VNS4u)) and the annual [Multimodal AI Workshop and Research Sprint](https://multimodalai.github.io/) (welcome to subscribe to our [Multimodal AI Community mailing list](https://groups.google.com/a/sheffield.ac.uk/g/multimodal-ai-community-group)). I lead the development of a course on [An Introduction to Transparent Machine Learning](https://pykale.github.io/transparentML/), part of the [Alan Turing Institute](https://www.turing.ac.uk)’s [online learning courses in responsible AI](https://www.turing.ac.uk/funding-call-online-learning-courses-responsible-ai).
+<!-- Founding Director of the UK Open Multimodal AI Network -->
 
-My research focuses on *developing translational AI technologies for better analysing multimodal data in healthcare and beyond, particularly multidimensional data and heterogeneous graphs in bioinformatics and medical imaging*. I lead the development of the [PyKale library](https://github.com/pykale/pykale) to provide more accessible machine learning from multiple sources for
-interdisciplinary research, officially part of the [PyTorch ecosystem](https://pytorch.org/ecosystem/).
+🏛️ I am a Professor of Machine Learning at the [School of Computer Science](http://www.sheffield.ac.uk/cs) and the Founding Head of [AI Research Engineering](https://shef-aire.github.io/) at the [Centre for Machine Intelligence](https://www.sheffield.ac.uk/ai), University of Sheffield. I am also the incoming Director of the [UK Open Multimodal AI Network (UKOMAIN)](https://multimodalai.github.io/), funded by [EPSRC](https://www.ukri.org/councils/epsrc/), which builds on the [Meta-learning for Multimodal Data](https://www.turing.ac.uk/research/interest-groups/meta-learning-multimodal-data) interest group at the [Alan Turing Institute](https://www.turing.ac.uk/). Subscribe to our [Multimodal AI Community mailing list](https://groups.google.com/a/sheffield.ac.uk/g/multimodal-ai-community-group) for updates on UKOMAIN. I also developed and lead a course on [An Introduction to Transparent Machine Learning](https://pykale.github.io/transparentML/), part of the Alan Turing Institute’s [online learning courses in responsible AI](https://www.turing.ac.uk/funding-call-online-learning-courses-responsible-ai).
 
-I serve as an Associate Editor of [IEEE Transactions on Neural Networks and Learning Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385), [IEEE Transactions on Cognitive and Developmental Systems](https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=7274989), and the [World Scientific Annual Review of Artificial Intelligence](https://www.worldscientific.com/worldscinet/wsarai). I served as an area chair of IJCAI2021, and a senior program committee member of IJCAI and AAAI since 2018. I was a recipient of a [Turing Network Development Award](https://www.turing.ac.uk/work-turing/turing-network-development-awards-call), an [Amazon Research Award](https://ara.amazon-ml.com/recipients/#2018), an [AAAI Outstanding PC Member Award](http://www.aaai.org/Awards/conference.php), a [Hong Kong Research Grants Council Early Career Award](http://www.comp.hkbu.edu.hk/v1/?page=fac_ach&id=80), an [IEEE CIS Outstanding PhD Dissertation Award](https://cis.ieee.org/getting-involved/awards/past-recipients#OutstandingPhDDissertationAward), and a joint recipient of a [Wellcome Trust Innovator Award](https://wellcome.ac.uk/funding/schemes/innovator-awards-digital-technologies) and an [NIHR AI in Health and Care Award](https://www.nihr.ac.uk/documents/ai-in-health-and-care-awards-funded-projects-2020/25625#Phase_2_projects). I am a Senior Member of IEEE.
+🖥️ My research focuses on *developing translational multimodal AI technologies for advancing healthcare and scientific discovery*. Applications include medical imaging (brain and cardiac), cancer diagnosis and treatment, materials and protein engineering, and drug discovery. I lead the development of the [PyKale library](https://github.com/pykale/pykale) to provide more accessible machine learning from multiple sources for interdisciplinary research, officially part of the [PyTorch ecosystem](https://pytorch.org/ecosystem/).
 
-Three of my MSc dissertation students received the [Fretwell-Downing Prize](https://www.sheffield.ac.uk/dcs/about-department/prizes) for the best MSc Dissertation in their respective years (P. Bai in 2017, H. Xu in 2019, and M. N. I. Suvon in 2022). See the bottom for the [whereabouts](https://haipinglu.github.io/#people) of my past team members.
+🏅 I serve as an Associate Editor of [IEEE Transactions on Neural Networks and Learning Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385) and [IEEE Transactions on Cognitive and Developmental Systems](https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=7274989). I was a recipient of a [Turing Network Development Award](https://www.turing.ac.uk/work-turing/turing-network-development-awards-call), an [Amazon Research Award](https://ara.amazon-ml.com/recipients/#2018), and a joint recipient of a [Wellcome Trust Innovator Award](https://wellcome.ac.uk/funding/schemes/innovator-awards-digital-technologies) and an [NIHR AI in Health and Care Award](https://www.nihr.ac.uk/documents/ai-in-health-and-care-awards-funded-projects-2020/25625#Phase_2_projects). I am a Senior Member of IEEE.
+
+📘 Three of my MSc dissertation students have won the Fretwell-Downing Prize for the best MSc Dissertation: P. Bai (2017), H. Xu (2019), and M. N. I. Suvon (2022). Learn more about the [whereabouts](https://haipinglu.github.io/#people) of my past team members.
 
 ***
-**PhD enquiries**: Email me **ONE PDF** including CV, a statement on why and your **source of funding**, 1-3 papers, and transcripts *before* applying. Also check the [English language](https://www.sheffield.ac.uk/postgraduate/phd/apply/english-language) requirements.
+✉️ **PhD enquiries**: Email me **ONE PDF** including your CV, a statement on why and your **source of funding**, 1-3 papers, and transcripts *before* applying. Also check the [English language](https://www.sheffield.ac.uk/postgraduate/phd/apply/english-language) requirements.
+
 <!-- **[PhD Scholarship](https://www.sheffield.ac.uk/postgraduate/phd/scholarships)**: [EPSRC DTP](https://epsrc.ukri.org/skills/students/dta/grants/) (*deadline: 24th March 2022*). -->
 
 <!-- ***
