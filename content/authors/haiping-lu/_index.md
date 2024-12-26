@@ -102,8 +102,8 @@ Medical Image Analysis](https://jobs.shef.ac.uk/sap/bc/webdynpro/sap/hrrcf_a_pos
 
 🖥️ My research focuses on *translational multimodal AI technologies for healthcare and scientific discovery*:
 - **Multimodal AI**: Foundation models, generative AI, domain adaptation, and transfer learning.
-- **Healthcare**: Medical imaging (brain and cardiac), cancer diagnosis, and treatment.
-- **Scientific Discovery**: Materials and protein engineering, and drug discovery.
+- **Healthcare**: Brain/cardiac imaging, cancer diagnosis, and cancer treatment.
+- **Scientific Discovery**: Protein engineering, and materials/drug discovery.
 
 I lead the development of the [PyKale library](https://github.com/pykale/pykale), part of the [PyTorch ecosystem](https://pytorch.org/ecosystem/), enabling accessible machine learning for interdisciplinary research.
 
