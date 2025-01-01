@@ -1,9 +1,12 @@
 ---
-title: Multisite Brain fMRI Classification
+title: Multisite brain fMRI classification
 summary: Multi-site autism classification based on site-dependence minimisation and second-order functional connectivity
 tags:
-- Interpretable Machine Learning
+- Multimodal AI
+- AI4Health
 - Medical Imaging
+- Interpretable Machine Learning
+- Selected
 date: "2021-06-02"
 
 authors:
@@ -23,10 +26,10 @@ image:
 #   icon_pack: fab
 #   name: Follow
 #   url: https://twitter.com/georgecushen
-# url_code: ""
-# url_pdf: ""
+url_code: "https://github.com/kundaMwiza/fMRI-site-adaptation"
+url_pdf: "https://eprints.whiterose.ac.uk/191961/1/MultisiteASD_TMI_2022.pdf"
 # url_slides: ""
-# url_video: ""
+url_video: "https://www.youtube.com/embed/6ctAjZi70tA?start=230&end=677"
 
 # Slides (optional).
 #   Associate this project with Markdown slides.

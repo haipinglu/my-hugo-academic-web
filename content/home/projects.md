@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: Research
+title: Our Research
 subtitle: 'Adventure and voyage of discovery'
 
 content:
@@ -25,19 +25,17 @@ content:
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove the toolbar, delete the entire `filter_button` block.
   filter_button:
-  - name: All
-    tag: '*'
-  - name: Interpretable ML
-    tag: Interpretable Machine Learning
-  - name: Medical Imaging
-    tag: Medical Imaging
-  - name: Deep Learning
-    tag: Deep Learning
-  - name: Graph ML
-    tag: Graph Machine Learning
-  - name: Bioinformatics
-    tag: Bioinformatics
-  
+  # - name: All
+  #   tag: '*'
+  - name: Selected
+    tag: Selected
+  - name: Multimodal AI
+    tag: Multimodal AI
+  - name: AI4Health
+    tag: AI4Health
+  - name: AI4Science
+    tag: AI4Science 
+
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
   columns: '2'
@@ -53,6 +51,4 @@ design:
   flip_alt_rows: false
 ---
 
-We aim to develop translational AI technologies for better analysing multimodal data in healthcare and beyond, particularly multidimensional data and heterogeneous graphs in bioinformatics and medical imaging. More specifically, we build knowledge-aware machine learning tools for learning useful features from multidimensional data and analysing complex relationships in graphs/networks via tensor-based, graph-based, and related methods.
-
-See selected research projects below, which can be filtered by the tags. Explore a [list of all projects >>](./project/)
+Our research develops advanced multimodal AI technologies to address challenges in healthcare and scientific discovery. Explore selected projects below or [view the full list >>](./project/) for detailed descriptions.

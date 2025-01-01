@@ -1,9 +1,8 @@
 ---
-title: Learnable GCN Aggregator 
+title: Learnable GCN aggregator 
 summary: A feature-importance-aware and robust aggregator for graph convolutional networks (GCNs)
 tags:
 - Graph Machine Learning
-- Deep Learning
 - Interpretable Machine Learning
 date: "2020-10-01"
 
@@ -23,8 +22,8 @@ image:
 #   icon_pack: fab
 #   name: Follow
 #   url: https://twitter.com/georgecushen
-# url_code: ""
-# url_pdf: ""
+url_code: "https://github.com/asarigun/la-gcn-pytorch"
+url_pdf: "https://eprints.whiterose.ac.uk/164494/1/LAGCN_CIKM20.pdf"
 # url_slides: ""
 # url_video: ""
 

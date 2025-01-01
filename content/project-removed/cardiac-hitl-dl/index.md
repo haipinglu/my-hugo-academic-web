@@ -1,5 +1,5 @@
 ---
-title: Human-In-The-Loop DL for Cardiac CT/MRI
+title: Human-in-the-loop DL for cardiac CT/MRI
 summary: Interactively trained 'human-in-the-loop' deep learning to improve cardiac CT/MRI assessment for accurate therapy response and mortality prediction
 tags:
 - Deep Learning

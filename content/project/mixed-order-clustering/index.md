@@ -1,5 +1,5 @@
 ---
-title: Mixed-order Spectral Clustering for Networks
+title: Mixed-order spectral clustering for networks
 summary: Model both second-order and third-order structures simultaneously for complex networks
 
 tags:
@@ -23,8 +23,8 @@ image:
 #   icon_pack: fab
 #   name: Follow
 #   url: https://twitter.com/georgecushen
-# url_code: ""
-# url_pdf: ""
+url_code: "https://bitbucket.org/Yan_Sheffield/mosc/src/master/"
+url_pdf: "https://eprints.whiterose.ac.uk/172646/1/MOSC_PR21.pdf"
 # url_slides: ""
 # url_video: ""
 

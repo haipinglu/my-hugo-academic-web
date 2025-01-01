@@ -1,8 +1,7 @@
 ---
-title: Learn via Tensor Model
+title: Learn via tensor modelling
 summary: Learn low-dimensional representations of high-dimensional data from their natural tensors
 tags:
-- Tensor
 - Dimension Reduction
 - Interpretable Machine Learning
 date: "2013-12-16"
@@ -19,8 +18,8 @@ image:
 #   icon_pack: fab
 #   name: Follow
 #   url: https://twitter.com/georgecushen
-# url_code: ""
-# url_pdf: ""
+url_code: "https://www.mathworks.com/matlabcentral/profile/authors/2144689"
+url_pdf: "https://www.dsp.toronto.edu/~haiping/Publication/SurveyMSL_PR2011.pdf"
 # url_slides: ""
 # url_video: ""
 

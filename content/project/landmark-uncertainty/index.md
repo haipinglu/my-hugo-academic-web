@@ -1,11 +1,12 @@
 ---
-title: Uncertainty Est. for Landmark Localisation
+title: Uncertainty estimation for landmark localisation
 summary: Quantify the uncertainty in automatic anatomical landmark localisation
 tags:
+- AI4Health
 - Medical Imaging
-- Deep Learning
 - Interpretable Machine Learning
-date: "2021-12-31"
+- Selected
+date: "2022-11-16"
 
 authors:
 - Lawrence Schobs
@@ -24,8 +25,8 @@ image:
 #   icon_pack: fab
 #   name: Follow
 #   url: https://twitter.com/georgecushen
-# url_code: ""
-# url_pdf: ""
+url_code: "https://github.com/schobs/qbin"
+url_pdf: "https://eprints.whiterose.ac.uk/195227/1/Qbin_TMI_2022.pdf"
 # url_slides: ""
 # url_video: ""
 
