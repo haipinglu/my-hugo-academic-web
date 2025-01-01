@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: BSc Student (now at Apple)
+role: BSc Student (now an MLOps Engineer at Apple)
 
 # Organizations/Affiliations
 organizations:

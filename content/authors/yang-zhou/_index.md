@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Student (now Senior Scientist at IHPC, A*STAR)
+role: PhD Student (now a Senior Scientist at IHPC, A*STAR)
 
 # Organizations/Affiliations
 organizations:

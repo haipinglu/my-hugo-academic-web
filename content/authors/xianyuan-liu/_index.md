@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Visiting PhD Student
+role: Assistant Head of AI Research Engineering & Senior AI Research Engineer
 
 # Organizations/Affiliations
 organizations:
@@ -21,8 +21,9 @@ organizations:
 bio: 
 
 interests:
-# - Feature Selection/Integration
-# - Multiomics
+- Video Domain Adaptation
+- Machine Learning
+- AI Engineering
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -32,8 +33,7 @@ interests:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Alumni 
+- Research Staff and Students
 ---
 
-Xianyuan was a visiting PhD student supported by CSC from September 2019 to September 2021. His research focuses on domain adaptation methods for deep learning models in first-person action recognition. See [his LinkedIn page](https://www.linkedin.com/in/xianyuanliu/) for more information.
-
+Xianyuan is the Assistant Head of AI Research Engineering and Senior AI Research Engineer since September 2023. He received his PhD degree in Signal and Information Processing from the University of Chinese Academy of Sciences, China, in 2023. Prior to that, he received his Bachelor’s degree in Measuring Control Technology and Instruments from Southeast University, China, in 2016. He was a visiting PhD student in our group supported by CSC from September 2019 to September 2021. See his [homepage](https://xianyuanliu.github.io/) and [LinkedIn](https://www.linkedin.com/in/xianyuanliu/) for more information.

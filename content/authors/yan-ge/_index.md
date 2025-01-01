@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Student (now Lecturer at University of Bristol)
+role: PhD Student (now a Lecturer in Financial Technology at University of Bristol)
 
 # Organizations/Affiliations
 organizations:

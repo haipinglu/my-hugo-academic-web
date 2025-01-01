@@ -20,10 +20,10 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
-interests:
-- Deep Learning
-- Medical Image Analysis
-- Uncertainty Est.
+# interests:
+# - Deep Learning
+# - Medical Image Analysis
+# - Uncertainty Est.
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -33,7 +33,7 @@ interests:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Research Staff and Students
+- Alumni
 ---
 
-Lawrence is a PhD student started in September 2019. He did his BSc dissertation on deep learning for landmark localisation in cardiac MRI with Haiping. His research focuses on deep learning for landmark localisation and segmentation of cardiac/brain MRI images as well as prediction performance uncertainty estimation. See [his LinkedIn page](https://www.linkedin.com/in/lawrence-schobs-2497a619b/?originalSubdomain=uk) for more information.
+Lawrence started his PhD in September 2019 and submitted his PhD dissertation "*Anatomical Landmark Localisation and Uncertainty Estimation*" in August 2023. He did his BSc dissertation on deep learning for landmark localisation in cardiac MRI with Haiping. His research focuses on deep learning for landmark localisation and segmentation of cardiac/brain MRI images as well as prediction performance uncertainty estimation. See [his LinkedIn page](https://www.linkedin.com/in/lawrence-schobs-2497a619b/?originalSubdomain=uk) for more information.

@@ -10,19 +10,19 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Student
+role: PhD Student (now a Senior Machine Learning Scientist at AstraZeneca)
 
 # Organizations/Affiliations
-organizations:
-- name: University of Sheffield
-  url: ""
+# organizations:
+# - name: University of Sheffield
+#   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
-interests:
-- Graph Neural Networks
-- Drug Discovery
+# interests:
+# - Graph Neural Networks
+# - Drug Discovery
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -32,7 +32,7 @@ interests:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Research Staff and Students
+- Alumni
 ---
 
-Peizhen started his PhD in January 2021. He did his MSc dissertation on context-aware recommender systems with Haiping and was Haiping's first student winning the best dissertation award in the department. He works on graph representation learning models for real-world drug discovery, in collaboration with an AstraZeneca team led by Bino John. See [his homepage](https://peizhenbai.me/) for more information.
+Peizhen started his PhD in January 2021 and submitted his PhD dissertation "*Transferable Representation Learning for Drug Discovery*" in December 2024. He did his MSc dissertation on context-aware recommender systems with Haiping and was Haiping's first student winning the best dissertation award in the department. He works on graph representation learning models for real-world drug discovery, in collaboration with an AstraZeneca team led by Bino John. See [his homepage](https://peizhenbai.me/) for more information.

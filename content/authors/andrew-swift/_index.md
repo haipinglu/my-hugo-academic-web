@@ -9,12 +9,12 @@ authors:
 superuser: false
 
 # Role/position
-role: Senior Clinical Research Fellow at University of Sheffield
+role: Professor of Cardiothoracic Radiology at University of Sheffield 
 
 # Organizations/Affiliations
-organizations:
-- name: University of Sheffield and Sheffield Teaching Hospitals NHS Foundation Trust
-  url: ""
+# organizations:
+# - name: University of Sheffield and Sheffield Teaching Hospitals NHS Foundation Trust
+#   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -34,4 +34,4 @@ user_groups:
 - Collaborators
 ---
 
-The collaboration with Andy started in 2017. We develop translational AI technologies with interpretable machine learning for the diagnosis, prognosis, and treatment assessment of cardiovascular diseases. See [his profile page](https://www.sheffield.ac.uk/medicine/people/iicd/andrew-swift) for more information.
+The collaboration with Andy started in 2017. We develop translational AI technologies with interpretable machine learning for the diagnosis, prognosis, and treatment assessment of cardiovascular diseases. See [his profile page](https://www.sheffield.ac.uk/smph/people/clinical-medicine/andy-swift) for more information.

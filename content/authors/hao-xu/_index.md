@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: MSc Student (PhD student at UCSD)
+role: MSc Student (now a PhD student at UCSD)
 
 # Organizations/Affiliations
 organizations:

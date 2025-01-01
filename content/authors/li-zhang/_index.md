@@ -10,12 +10,12 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Student (now Postdoc RA at University of Oxford)
+role: PhD Student (now an Associate Lecturer at University College London)
 
 # Organizations/Affiliations
-organizations:
-- name: University of Sheffield
-  url: ""
+# organizations:
+# - name: University of Sheffield
+#   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: 

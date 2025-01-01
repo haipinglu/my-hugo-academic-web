@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Senior Scientist at AstraZeneca
+role: Associate Principal AI Scientist at AstraZeneca
 
 # Organizations/Affiliations
 # organizations:

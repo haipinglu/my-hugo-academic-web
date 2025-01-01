@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Student (now at Huawei)
+role: PhD Student (now an AI Researcher at Huawei)
 
 # Organizations/Affiliations
 organizations:
