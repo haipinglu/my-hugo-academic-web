@@ -112,7 +112,7 @@ I lead the development of the open-source software library [PyKale](https://gith
 📘 Three of my MSc dissertation students have won the Fretwell-Downing Prize for the best MSc Dissertation: [Peizhen Bai](https://haipinglu.github.io/authors/peizhen-bai/) (2017), [Hao Xu](https://haipinglu.github.io/authors/hao-xu/) (2019), and [Mohammod N. I. Suvon](https://haipinglu.github.io/authors/mohammod-suvon/) (2022). Learn more about the [whereabouts](https://haipinglu.github.io/#people) of my past team members.
 
 ***
-✉️ **PhD enquiries**: Email me **ONE PDF** including your CV, a statement on why and your **source of funding**, 1-3 papers, and transcripts *before* applying. Also check the [English language](https://www.sheffield.ac.uk/postgraduate/phd/apply/english-language) requirements.
+📩 **PhD enquiries**: Email me **ONE PDF** including your CV, a statement on why and your **source of funding**, 1-3 papers, and transcripts *before* applying. Also check the [English language](https://www.sheffield.ac.uk/postgraduate/phd/apply/english-language) requirements.
 
 
 <!-- **[PhD Scholarship](https://www.sheffield.ac.uk/postgraduate/phd/scholarships)**: [EPSRC DTP](https://epsrc.ukri.org/skills/students/dta/grants/) (*deadline: 24th March 2022*). -->
