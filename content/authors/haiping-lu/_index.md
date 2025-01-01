@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Incoming Director of the UK Open Multimodal AI Network, Professor of Machine Learning, and Head of AI Research Engineering
+role: Director of the UK Open Multimodal AI Network, Professor of Machine Learning, and Head of AI Research Engineering
 
 # Organizations/Affiliations
 organizations:
@@ -97,7 +97,7 @@ Medical Image Analysis](https://jobs.shef.ac.uk/sap/bc/webdynpro/sap/hrrcf_a_pos
 
 <!-- Founding Director of the UK Open Multimodal AI Network -->
 
-🏛️ I am a Professor of Machine Learning at the [School of Computer Science](http://www.sheffield.ac.uk/cs) and the Head of [AI Research Engineering](https://shef-aire.github.io/) at the [Centre for Machine Intelligence](https://www.sheffield.ac.uk/ai), University of Sheffield. I am also the incoming Director of the [UK Open Multimodal AI Network (UKOMAIN)](https://multimodalai.github.io/), funded by [EPSRC](https://www.ukri.org/councils/epsrc/), which builds on the [Meta-learning for Multimodal Data](https://www.turing.ac.uk/research/interest-groups/meta-learning-multimodal-data) interest group at the [Alan Turing Institute](https://www.turing.ac.uk/). Subscribe to the [Multimodal AI Community mailing list](https://groups.google.com/a/sheffield.ac.uk/g/multimodal-ai-community-group) for updates on UKOMAIN.
+🏛️ I am a Professor of Machine Learning at the [School of Computer Science](http://www.sheffield.ac.uk/cs) and the Head of [AI Research Engineering](https://shef-aire.github.io/) at the [Centre for Machine Intelligence](https://www.sheffield.ac.uk/ai), University of Sheffield. I am also the Director of the [UK Open Multimodal AI Network (UKOMAIN)](https://multimodalai.github.io/), funded by [EPSRC](https://www.ukri.org/councils/epsrc/), which builds on the [Meta-learning for Multimodal Data](https://www.turing.ac.uk/research/interest-groups/meta-learning-multimodal-data) interest group at the [Alan Turing Institute](https://www.turing.ac.uk/). Subscribe to the [Multimodal AI Community mailing list](https://groups.google.com/a/sheffield.ac.uk/g/multimodal-ai-community-group) for updates on UKOMAIN.
 
 
 🖥️ My research focuses on translational multimodal AI technologies for healthcare and scientific discovery:
