@@ -13,15 +13,15 @@ main:
   # - name: Publication
   #   url: '#featured'
   #   weight: 30
+  - name: Team
+    url: '#people'
+    weight: 30
   - name: Teaching
     url: '#teaching'
     weight: 40
-  - name: Code/Data
-    url: '#codedata'
-    weight: 50
-  - name: Team
-    url: '#people'
-    weight: 60
+  # - name: Code/Data
+  #   url: '#codedata'
+  #   weight: 50
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
