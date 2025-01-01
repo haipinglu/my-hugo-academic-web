@@ -1,6 +1,6 @@
 ---
 title: Drug–target interaction prediction via bilinear attention network
-summary: Interpretable bilinear attention network with domain adaptation for drug–target prediction 
+summary: Advance drug discovery with interpretable bilinear attention network and domain adaptation 
 tags:
 - Multimodal AI
 - AI4Health

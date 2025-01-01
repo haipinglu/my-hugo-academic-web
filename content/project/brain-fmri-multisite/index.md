@@ -1,6 +1,6 @@
 ---
 title: Multisite brain fMRI classification
-summary: Multi-site autism classification based on site-dependence minimisation and second-order functional connectivity
+summary: Classify autism across multiple sites via site-dependence minimisation & second-order functional connectivity
 tags:
 - Multimodal AI
 - AI4Health

@@ -1,6 +1,6 @@
 ---
 title: Learnable GCN aggregator 
-summary: A feature-importance-aware and robust aggregator for graph convolutional networks (GCNs)
+summary: Construct a feature-importance-aware and robust aggregator for graph convolutional networks
 tags:
 - Graph Machine Learning
 - Interpretable Machine Learning

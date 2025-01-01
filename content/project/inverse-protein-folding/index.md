@@ -1,6 +1,6 @@
 ---
 title: Inverse protein folding via denoising diffusion
-summary: Mask prior-guided denoising diffusion for inverse protein folding
+summary: Design proteins using mask prior-guided denoising diffusion for inverse protein folding
 tags:
 - AI4Science
 - Protein Engineering

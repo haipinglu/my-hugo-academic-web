@@ -2,6 +2,7 @@
 title: Learn via tensor modelling
 summary: Learn low-dimensional representations of high-dimensional data from their natural tensors
 tags:
+- Multimodal AI
 - Dimension Reduction
 - Interpretable Machine Learning
 date: "2013-12-16"

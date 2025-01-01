@@ -1,6 +1,6 @@
 ---
 title: Molecular property prediction via line graph transformer
-summary: Geometry-aware line graph transformer pre-training for molecular property prediction
+summary: Predict molecular properties with geometry-aware line graph transformer pre-training
 
 tags:
 - Multimodal AI

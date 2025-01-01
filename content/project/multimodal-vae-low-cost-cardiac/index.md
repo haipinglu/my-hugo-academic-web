@@ -1,6 +1,6 @@
 ---
 title: Multimodal VAE for low-cost cardiac assessment
-summary: Multimodal variational autoencoder for low-cost cardiac hemodynamics instability detection
+summary: Develop a cost-effective cardiac instability detection tool using multimodal variational autoencoder
 tags:
 - Multimodal AI
 - AI4Health
