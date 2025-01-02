@@ -66,4 +66,8 @@ subtitle = ""
 
 KALE (Knowledge-Aware machine LEarning) leverages diverse data sources and expert knowledge to advance AI and machine learning applications, focusing on *green* and *healthy* AI. Below is our July 2024 group photo; find older photos from [June 2023](img/group_photo_June2023.jpg), [December 2021](img/group_photo_Dec2021.jpg), [January 2020](img/group_photo_Jan2020.jpg), and [October 2019](img/group_photo_Oct2019.jpg). Explore profiles of current research staff, students, collaborators, and alumni below.
 
-<p align="center"> <img style="height:200px; margin-right: 10px" src="img/group_photo_July2024.jpg" alt="Group photo in July 2024"> </p>
+<p align="center">
+  <a href="img/group_photo_July2024.jpg">
+    <img style="height:260px; margin-right: 10px" src="img/group_photo_July2024.jpg" alt="Group photo in July 2024">
+  </a>
+</p>
