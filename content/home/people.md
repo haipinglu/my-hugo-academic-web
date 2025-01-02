@@ -64,7 +64,7 @@ subtitle = ""
 <!-- **[PhD Scholarship](https://www.sheffield.ac.uk/postgraduate/phd/scholarships)**: [EPSRC DTP](https://epsrc.ukri.org/skills/students/dta/grants/) (*deadline: 24th March 2022*). -->
 ***
 
-KALE (Knowledge-Aware machine LEarning) leverages diverse data sources and expert knowledge to advance AI and machine learning applications, focusing on *green* and *healthy* AI. Below is our July 2024 group photo; find older photos from [June 2023](img/group_photo_June2023.jpg), [December 2021](img/group_photo_Dec2021.jpg), [January 2020](img/group_photo_Jan2020.jpg), and [October 2019](img/group_photo_Oct2019.jpg). Explore profiles of current research staff, students, collaborators, and alumni below.
+KALE (Knowledge-Aware machine LEarning) leverages diverse data sources and expert knowledge to advance AI and machine learning applications, focusing on *green* and *healthy* AI. Below is our July 2024 group photo; find older photos from [2023](img/group_photo_June2023.jpg), [2021](img/group_photo_Dec2021.jpg), [2020](img/group_photo_Jan2020.jpg), and [2019](img/group_photo_Oct2019.jpg). Explore profiles of current research staff, students, collaborators, and alumni below.
 
 <p align="center">
   <a href="img/group_photo_July2024.jpg">
