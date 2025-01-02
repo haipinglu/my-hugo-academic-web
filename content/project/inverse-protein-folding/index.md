@@ -12,6 +12,9 @@ authors:
 - Peizhen Bai
 - Filip Miljkovic
 - Xianyuan Liu
+- Leonardo De Maria
+- Rebecca Croasdale-Wood
+- Owen Rackham
 - Haiping Lu
 
 # Optional external URL for project (replaces project detail page).

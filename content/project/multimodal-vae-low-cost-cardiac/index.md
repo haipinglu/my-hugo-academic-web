@@ -14,7 +14,7 @@ authors:
 - Shuo Zhou
 - Xianyuan Liu
 - Samer Alabed
-- Shuo Zhou
+- Venet Osmani
 - Andrew Swift
 - Chen Chen
 - Haiping Lu
