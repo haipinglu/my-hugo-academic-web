@@ -34,4 +34,4 @@ user_groups:
 - Alumni
 ---
 
-Alexandra was a BSc student working on graph neural networks for biological applications from 2020 to 2021 at the University of Sheffield. She finished her BSc dissertation "Improving negative sampling in graph neural networks for drug-drug interaction prediction" under Haiping's supervision in 2021, after which she joined Apple. See [her LinkedIn page](https://www.linkedin.com/in/alexandra-herghelegiu/?originalSubdomain=uk) for more information.
+Alexandra was a BSc student working on graph neural networks for biological applications from 2020 to 2021 at the University of Sheffield. She finished her BSc dissertation "Improving negative sampling in graph neural networks for drug-drug interaction prediction" under Haiping's supervision in 2021, after which she joined Apple. See [her LinkedIn page](https://www.linkedin.com/in/alexandra-herghelegiu/) for more information.

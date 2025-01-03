@@ -35,4 +35,4 @@ user_groups:
 - Alumni
 ---
 
-Wenwen was the first postdoctoral researcher in our group. She worked on an EPSRC-funded project developing tensor-based machine learning with sparsity for brain fMRI classification from June 2018 to June 2019. She joined University of Edinburgh after leaving Sheffield. See [her LinkedIn page](https://www.linkedin.com/in/wenwen-li-56a58164/?originalSubdomain=uk) for more information.
+Wenwen was the first postdoctoral researcher in our group. She worked on an EPSRC-funded project developing tensor-based machine learning with sparsity for brain fMRI classification from June 2018 to June 2019. She joined University of Edinburgh after leaving Sheffield. See [her LinkedIn page](https://www.linkedin.com/in/wenwen-li-56a58164/) for more information.

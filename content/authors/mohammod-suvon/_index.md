@@ -35,4 +35,4 @@ interests:
 user_groups:
 - Research Staff and Students
 ---
-Mohammod joined us as an AI Research Engineer (AIRE) in October 2023 and he is also pursuing his PhD in our group. He received his Master's degree in Computer Science with Speech and Language Processing from the University of Sheffield in 2022. Prior to that, he received Bachelor’s degree in Computer Science and Engineering from North South University, Bangladesh, in 2020. See his [LinkedIn](https://www.linkedin.com/in/md-naimul/) for more information.
+Mohammod joined us as an AI Research Engineer (AIRE) in October 2023 and he is also pursuing his PhD in our group. He received his Master's degree in Computer Science with Speech and Language Processing from the University of Sheffield in 2022. Prior to that, he received Bachelor’s degree in Computer Science and Engineering from North South University, Bangladesh, in 2020. See [his LinkedIn page](https://www.linkedin.com/in/md-naimul/) for more information.

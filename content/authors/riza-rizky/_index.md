@@ -36,4 +36,4 @@ user_groups:
 - Research Staff and Students
 ---
 
-Riza joined us as an AI Research Engineer (AIRE) in April 2024. He recieved his Master's degree in Artificial Intelligence from The University of Edinburgh. See his [LinkedIn](https://www.linkedin.com/in/zarizky/) for more information.
+Riza joined us as an AI Research Engineer (AIRE) in April 2024. He recieved his Master's degree in Artificial Intelligence from The University of Edinburgh. See [his LinkedIn page](https://www.linkedin.com/in/zarizky/) for more information.

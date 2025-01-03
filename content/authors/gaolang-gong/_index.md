@@ -35,4 +35,4 @@ user_groups:
 - Collaborators
 ---
 
-We started collaborating with Gaolang in 2019. We work on domain adaptation for brain disease diagnosis and neuroscience studies using brain imaging and other related data. See [his group homepage](https://gonglab.bnu.edu.cn/) for more information.
+We started collaborating with Gaolang in 2019. We work on domain adaptation for brain disease diagnosis and neuroscience studies using brain imaging and other related data. See [his profile page](https://brain.bnu.edu.cn/English/Faculty/CurrentFaculty/Gzz/2b1b2b8f117e4e49aa2dc12278d15c34.htm) for more information.

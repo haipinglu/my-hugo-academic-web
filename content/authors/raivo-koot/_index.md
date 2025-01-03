@@ -36,4 +36,4 @@ user_groups:
 - Alumni
 ---
 
-Raivo started doing research with us in 2020 and he is now doing his BSc dissertation with Haiping. His research focuses on action recognition with transformer (deep learning) models. See [his LinkedIn page](https://www.linkedin.com/in/raivokoot/?originalSubdomain=de) for more information.
+Raivo started doing research with us in 2020 and he is now doing his BSc dissertation with Haiping. His research focuses on action recognition with transformer (deep learning) models. See [his LinkedIn page](https://www.linkedin.com/in/raivokoot/) for more information.

@@ -35,4 +35,4 @@ user_groups:
 - Alumni
 ---
 
-Jo was a Postdoctoral Research Associate with us for two years from Oct 2019 to Sep 2021. She worked on the Wellcome Trust project on machine learning for diagnosis, prognosis, and treatment assessment of cardiovascular diseases using cardiac MRI. See [her LinkedIn page](https://www.linkedin.com/in/johanna-uthoff/?originalSubdomain=uk) for more information.
+Jo was a Postdoctoral Research Associate with us for two years from Oct 2019 to Sep 2021. She worked on the Wellcome Trust project on machine learning for diagnosis, prognosis, and treatment assessment of cardiovascular diseases using cardiac MRI. See [her LinkedIn page](https://www.linkedin.com/in/johanna-uthoff/) for more information.

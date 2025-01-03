@@ -38,4 +38,4 @@ user_groups:
 - Research Staff and Students
 ---
 
-Wenrui joined us as an AI Research Engineer (AIRE) in September 2023 and he is also pursuing his PhD in our group. He received his Master's degree in Robotics from the University of Sheffield in 2022. Prior to that, he received Bachelor’s degree in Flight Vehicle Design from Beijing Institute of Technology, China, in 2021. See his [homepage](https://wenruifan.github.io/) and [LinkedIn](https://www.linkedin.com/in/wenrui-fan-a7b68b290/) for more information. 
+Wenrui joined us as an AI Research Engineer (AIRE) in September 2023 and he is also pursuing his PhD in our group. He received his Master's degree in Robotics from the University of Sheffield in 2022. Prior to that, he received Bachelor’s degree in Flight Vehicle Design from Beijing Institute of Technology, China, in 2021. See his [homepage](https://wenruifan.github.io/) and [LinkedIn page](https://www.linkedin.com/in/wenrui-fan-a7b68b290/) for more information. 

@@ -35,4 +35,4 @@ user_groups:
 - Alumni
 ---
 
-Yan joined us in September 2017 and submitted his PhD dissertation "*Representation Learning with Motif Structures*" in June 2021. Since July 2021, he is a [Lecturer in Financial Technology](https://research-information.bris.ac.uk/en/persons/yan-ge), Department of Computer Science, University of Bristol. His research focuses on graph-based clustering and representation. See [his LinkedIn page](https://www.linkedin.com/in/yan-ge-b9a8b9a6/) for more information.
+Yan joined us in September 2017 and submitted his PhD dissertation "*Representation Learning with Motif Structures*" in June 2021. Since July 2021, he is a [Lecturer in Financial Technology](https://research-information.bris.ac.uk/en/persons/yan-ge), Department of Computer Science, University of Bristol. His research focuses on graph-based clustering and representation. See [his LinkedIn page](https://www.linkedin.com/in/yan-ge-3a5446122/) for more information.

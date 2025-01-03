@@ -35,4 +35,4 @@ user_groups:
 - Research Staff and Students
 ---
 
-Pawel joined us in November 2021. He did his BSc dissertation on hand segmentation for action recognition with Haiping. His research focuses on developing theoretical models for deep learning algorithms. See [his LinkedIn page](https://www.linkedin.com/in/pawel-pukowski-503884180/?originalSubdomain=uk) for more information.
+Pawel joined us in November 2021. He did his BSc dissertation on hand segmentation for action recognition with Haiping. His research focuses on developing theoretical models for deep learning algorithms. See [his LinkedIn page](https://www.linkedin.com/in/pawel-pukowski-503884180/) for more information.

@@ -35,4 +35,4 @@ user_groups:
 - Alumni
 ---
 
-Peizhen started his PhD in January 2021 and submitted his PhD dissertation "*Transferable Representation Learning for Drug Discovery*" in December 2024. He did his MSc dissertation on context-aware recommender systems with Haiping and was Haiping's first student winning the best dissertation award in the department. He works on graph representation learning models for real-world drug discovery, in collaboration with an AstraZeneca team led by Bino John. See [his homepage](https://peizhenbai.me/) for more information.
+Peizhen started his PhD in January 2021 and submitted his PhD dissertation "*Transferable Representation Learning for Drug Discovery*" in December 2024. He did his MSc dissertation on context-aware recommender systems with Haiping and was Haiping's first student winning the best dissertation award in the department. He works on graph representation learning models for real-world drug discovery, in collaboration with an AstraZeneca team led by Bino John. See [his LinkedIn page](https://www.linkedin.com/in/peizhen-bai/) for more information.

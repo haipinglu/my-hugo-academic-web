@@ -36,4 +36,4 @@ user_groups:
 - Research Staff and Students
 ---
 
-Jiayang joined us as an AI Research Engineer (AIRE) in March 2024. She recieved her Bachelor's and Master's degree in Physics from Imperial College London. See her [LinkedIn](https://www.linkedin.com/in/jiayang-zhang/) for more information.
+Jiayang joined us as an AI Research Engineer (AIRE) in March 2024. She recieved her Bachelor's and Master's degree in Physics from Imperial College London. See [her LinkedIn page](https://www.linkedin.com/in/jiayang-zhang/) for more information.

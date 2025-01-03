@@ -35,4 +35,4 @@ user_groups:
 - Alumni
 ---
 
-Li started her PhD in September 2017 and submitted her PhD dissertation "*Exploring Local Information for Graph Representation Learning*" in September 2021. In 2020/21, she spent most of time at Baidu China for an internship. See [her LinkedIn page](https://www.linkedin.com/in/li-zhang-8a0b161b1/?originalSubdomain=uk) for more information.
+Li started her PhD in September 2017 and submitted her PhD dissertation "*Exploring Local Information for Graph Representation Learning*" in September 2021. In 2020/21, she spent most of time at Baidu China for an internship. See [her LinkedIn page](https://www.linkedin.com/in/li-zhang-3bbab119a/) for more information.

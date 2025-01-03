@@ -38,4 +38,4 @@ user_groups:
 
 Prasun commenced his role as a Visiting Researcher of our group in February 2024. Prior to this, he served as a Postdoctoral Research Associate and a Senior AI Research Engineer in our group from July 2022 to January 2024. He worked on a Wellcome Trust project for the diagnosis, prognosis, and treatment assessment of cardiovascular diseases from cardiac MRI.
 
-He received his Ph.D. degree in Computer Science from Indian Institute of Technology, Dhanbad, in 2022. See his [LinkedIn](https://www.linkedin.com/in/prasun-tripathi-a20a932a/) for more information.
+He received his Ph.D. degree in Computer Science from Indian Institute of Technology, Dhanbad, in 2022. See [his LinkedIn page](https://www.linkedin.com/in/prasun-tripathi-a20a932a/) for more information.
