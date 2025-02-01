@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Wei Sang
+title: Yingjie Guo
 
 # Username (this should match the folder name)
 authors:
-- wei-sang
+- yingjie-guo
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Professor at Shanxi Medical University
+role: Associate Professor at Shanxi University
 
 # Organizations/Affiliations
 # organizations:
@@ -36,4 +36,4 @@ user_groups:
 - Collaborators
 ---
 
-We started collaborating with Wei in August 2024. We work on interpretable multimodal learning for prediction and regulation of tumor protein-metal binding. 
+We started collaborating with Yingjie in July 2024. We work on single-cell multi-omics data integration.

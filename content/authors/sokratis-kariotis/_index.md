@@ -1,21 +1,21 @@
 ---
 # Display name
-title: Wei Sang
+title: Sokratis Kariotis
 
 # Username (this should match the folder name)
 authors:
-- wei-sang
+- sokratis-kariotis
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Professor at Shanxi Medical University
+role: PhD Student (co-sup, now a Postdoctoral Scientist at BII, A*STAR)
 
 # Organizations/Affiliations
-# organizations:
-# - name: The University of Sheffield
-#   url: ""
+organizations:
+- name: University of Sheffield
+  url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -33,7 +33,7 @@ bio:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Collaborators
+- Alumni
 ---
 
-We started collaborating with Wei in August 2024. We work on interpretable multimodal learning for prediction and regulation of tumor protein-metal binding. 
+Sokratis joined us in September 2018, working under the joint supervision of [Dennis Wang](https://profiles.imperial.ac.uk/dennis.wang) and Haiping on unsupervised machine learning of high dimensional data for patient stratification. See [his LinkedIn page](https://www.linkedin.com/in/sokratiskariotis/) for more information.
