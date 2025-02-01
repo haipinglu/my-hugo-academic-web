@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Academic Fellow at University of Sheffield (past PhD Student) 
+role: Lecturer in Machine Learning at University of Sheffield (past PhD Student) 
 
 # Organizations/Affiliations
 organizations:
