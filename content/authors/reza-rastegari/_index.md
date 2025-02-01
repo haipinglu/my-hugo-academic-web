@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Remote intern
+role: Remote Intern
 
 # Organizations/Affiliations
 organizations:
