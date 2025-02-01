@@ -36,4 +36,4 @@ user_groups:
 # - Alumni
 ---
 
-Shuo is now an Academic Fellow in our school. He was a PhD student under the supervision of Haiping from March 2018 to Feb 2022. He did his MSc on domain adaptation for brain fMRI classification with Haiping in 2016/17. His research focuses on domain adaptation for medical image analysis, particularly domain-independence maximisation for multisource domain adaptation. See [his homepage](https://shuo-zhou.github.io/) for more information.
+Shuo is now a Lecturer in Machine Learning in our school. He was a PhD student under the supervision of Haiping from March 2018 to Feb 2022. He did his MSc on domain adaptation for brain fMRI classification with Haiping in 2016/17. His research focuses on domain adaptation for medical image analysis, particularly domain-independence maximisation for multisource domain adaptation. See [his homepage](https://shuo-zhou.github.io/) for more information.
