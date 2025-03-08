@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Student
+role: PhD Student (now a Lead Machine Learning Engineer at ViewsML Technologies)
 
 # Organizations/Affiliations
 organizations:

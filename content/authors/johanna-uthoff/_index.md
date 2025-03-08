@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Postdoctoral Research Associate (now a Data Engineer at Auto Trader)
+role: Postdoctoral Research Associate (now a Data Engineer at Auto Trader UK)
 
 # Organizations/Affiliations
 organizations:

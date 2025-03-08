@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Postdoctoral Research Associate (now a Senior AI Training Engineer at Matlab)
+role: Postdoctoral Research Associate (now a Senior AI Training Engineer at MathWorks)
 
 # Organizations/Affiliations
 organizations:
