@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Postdoctoral Research Associate (now a Data Engineer at Auto Trader UK)
+role: Postdoctoral Research Associate (now a Senior Data Engineer at GE HealthCare)
 
 # Organizations/Affiliations
 organizations:
