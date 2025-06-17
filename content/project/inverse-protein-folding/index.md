@@ -6,7 +6,7 @@ tags:
 - Protein Engineering
 - Generative AI
 - Selected
-date: "2024-12-10"
+date: "2025-06-16"
 
 authors:
 - Peizhen Bai
@@ -30,7 +30,7 @@ image:
 #   name: Follow
 #   url: https://twitter.com/georgecushen
 url_code: "https://github.com/peizhenbai/MapDiff"
-url_pdf: "https://arxiv.org/abs/2412.07815"
+url_pdf: "https://www.nature.com/articles/s42256-025-01042-6"
 # url_slides: ""
 # url_video: ""
 
