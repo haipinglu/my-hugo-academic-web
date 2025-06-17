@@ -7,7 +7,7 @@ on:
 
 jobs:
   deploy:
-    runs-on: ubuntu-22.04
+    runs-on: ubuntu-latest  # Use the latest Ubuntu runner
     concurrency:
       group: ${{ github.workflow }}-${{ github.ref }}
     steps:
