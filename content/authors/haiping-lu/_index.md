@@ -78,6 +78,8 @@ user_groups:
 - Principal Investigators
 ---
 
+📢 [MultimodalAI’25](https://multimodalai.github.io/multimodalai25/), the UK’s flagship community workshop on multimodal AI, will be held on 16–17 September 2025 at the Barbican Centre, London, hosted by [UKOMAIN](https://multimodalai.github.io/). You can now [register](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-engineering/computer-science/third-workshop-on-multimodal-ai), [submit an abstract](https://forms.gle/82gbPCu5tBkCm8i29), or [become a sponsor](https://multimodalai.github.io/call-for-sponsorship/).
+
 <!-- **Job**: [Senior AI Research Engineer / AI Research Engineer opening](https://www.jobs.ac.uk/job/DFM241/ai-research-engineer-senior-ai-research-engineer). *Deadline: 5th February 2024*. Fixed term to start from as soon as possible until 31 March 2025. -->
 
 <!-- **Job**: [FIVE 3-year Senior AI Research Engineer / AI Research Engineer positions](https://www.jobs.ac.uk/job/CYI206/senior-ai-research-engineer-ai-research-engineer). *Deadline: 24th April 2023*. Fixed term for 36 months with flexible starting date. For more information, watch the [information session recording on YouTube](https://youtu.be/2gizHKlaDqE) and check out the [Q&A summary](https://shef-aire.github.io/q-and-a/). -->
