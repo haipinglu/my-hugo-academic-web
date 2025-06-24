@@ -78,7 +78,11 @@ user_groups:
 - Principal Investigators
 ---
 
+🆕 The [UKOMAIN](https://multimodalai.github.io/) Round 1 funding call is now open, launching our Open Multimodal AI Benchmark ([OMAIB](https://multimodalai.github.io/omaib/)) initiative. [Register for the 11 July webinar](https://forms.gle/Aih9sceoD1ZsvzGDA) to learn more.
+
 📢 [MultimodalAI’25](https://multimodalai.github.io/multimodalai25/), the UK’s flagship community workshop on multimodal AI, will be held on 16–17 September 2025 at the Barbican Centre, London, hosted by [UKOMAIN](https://multimodalai.github.io/). You can now [register](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-engineering/computer-science/third-workshop-on-multimodal-ai), [submit an abstract](https://forms.gle/82gbPCu5tBkCm8i29), or [become a sponsor](https://multimodalai.github.io/call-for-sponsorship/).
+
+
 
 <!-- **Job**: [Senior AI Research Engineer / AI Research Engineer opening](https://www.jobs.ac.uk/job/DFM241/ai-research-engineer-senior-ai-research-engineer). *Deadline: 5th February 2024*. Fixed term to start from as soon as possible until 31 March 2025. -->
 
