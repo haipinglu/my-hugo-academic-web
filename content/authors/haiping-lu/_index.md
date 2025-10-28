@@ -77,7 +77,10 @@ email: ""
 user_groups:
 - Principal Investigators
 ---
-📢 We are hiring [AI Research Engineer / Senior AI Research Engineer (G6/7) positions](https://jobsite.sheffield.ac.uk/job/AI-Research-Engineer-Senior-AI-Research-Engineer/1615-en_GB) — apply by 22 October 2025.
+
+**PhD Opportunity:** Co-supervising a [PhD project](https://www.findaphd.com/phds/project/advancing-blood-pressure-monitoring-with-wearable-technology-and-multimodal-ai-s3-5-com-sun/?p188983) on wearable technology and multimodal AI with [Dr Shaoxiong Sun](https://sheffield.ac.uk/cs/people/academic/shaoxiong-sun), aligned with our deployment-centric multimodal AI vision.
+
+<!-- 📢 We are hiring [AI Research Engineer / Senior AI Research Engineer (G6/7) positions](https://jobsite.sheffield.ac.uk/job/AI-Research-Engineer-Senior-AI-Research-Engineer/1615-en_GB) — apply by 22 October 2025. -->
 
 <!-- 🆕 The [UKOMAIN](https://multimodalai.github.io/) Round 1 funding call is now open, launching our Open Multimodal AI Benchmark ([OMAIB](https://multimodalai.github.io/omaib/)) initiative. [Register for the 11 July webinar](https://forms.gle/Aih9sceoD1ZsvzGDA) to learn more. -->
 
