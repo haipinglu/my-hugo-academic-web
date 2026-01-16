@@ -78,7 +78,7 @@ user_groups:
 - Principal Investigators
 ---
 
-**PhD Opportunity:** Co-supervising a [PhD project](https://www.findaphd.com/phds/project/advancing-blood-pressure-monitoring-with-wearable-technology-and-multimodal-ai-s3-5-com-sun/?p188983) on wearable technology and multimodal AI with [Dr Shaoxiong Sun](https://sheffield.ac.uk/cs/people/academic/shaoxiong-sun), aligned with our deployment-centric multimodal AI vision.
+<!-- **PhD Opportunity:** Co-supervising a [PhD project](https://www.findaphd.com/phds/project/advancing-blood-pressure-monitoring-with-wearable-technology-and-multimodal-ai-s3-5-com-sun/?p188983) on wearable technology and multimodal AI with [Dr Shaoxiong Sun](https://sheffield.ac.uk/cs/people/academic/shaoxiong-sun), aligned with our deployment-centric multimodal AI vision. -->
 
 <!-- 📢 We are hiring [AI Research Engineer / Senior AI Research Engineer (G6/7) positions](https://jobsite.sheffield.ac.uk/job/AI-Research-Engineer-Senior-AI-Research-Engineer/1615-en_GB) — apply by 22 October 2025. -->
 
