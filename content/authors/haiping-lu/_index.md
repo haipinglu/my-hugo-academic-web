@@ -107,25 +107,35 @@ Medical Image Analysis](https://jobs.shef.ac.uk/sap/bc/webdynpro/sap/hrrcf_a_pos
 
 <!-- Founding Director of the UK Open Multimodal AI Network -->
 
-🏛️ I am a Professor of Machine Learning at the [School of Computer Science](http://www.sheffield.ac.uk/cs) and the Head of [AI Research Engineering](https://shef-aire.github.io/) at the [Centre for Machine Intelligence](https://www.sheffield.ac.uk/ai), University of Sheffield. I am also the Director of the [UK Open Multimodal AI Network (UKOMAIN)](https://multimodalai.github.io/), funded by [EPSRC](https://www.ukri.org/councils/epsrc/), building on the [Meta-learning for Multimodal Data](https://www.turing.ac.uk/research/interest-groups/meta-learning-multimodal-data) interest group at the [Alan Turing Institute](https://www.turing.ac.uk/). Follow our [UKOMAIN LinkedIn page](https://www.linkedin.com/company/ukomain) for the latest updates and opportunities or subscribe to our [Multimodal AI Community mailing list](https://groups.google.com/a/sheffield.ac.uk/g/multimodal-ai-community-group).
+🏛️ I am a Professor of Machine Learning at the [School of Computer Science](http://www.sheffield.ac.uk/cs) and the Head of [AI Research Engineering](https://shef-aire.github.io/) at the [Centre for Machine Intelligence](https://www.sheffield.ac.uk/ai), University of Sheffield. I am also the Director of the [UK Open Multimodal AI Network (UKOMAIN)](https://multimodalai.github.io/), funded by [EPSRC](https://www.ukri.org/councils/epsrc/), building on the [Meta-learning for Multimodal Data](https://www.turing.ac.uk/research/interest-groups/meta-learning-multimodal-data) interest group at the [Alan Turing Institute](https://www.turing.ac.uk/).
 
+Follow our [UKOMAIN LinkedIn page](https://www.linkedin.com/company/ukomain) for updates and opportunities, or subscribe to the [Multimodal AI Community mailing list](https://groups.google.com/a/sheffield.ac.uk/g/multimodal-ai-community-group).
 
-🖥️ My research focuses on deployment-centric multimodal AI technologies for healthcare and scientific discovery:
+🖥️ My research focuses on **deployment-centric multimodal AI** for healthcare and scientific discovery:
 - **Multimodal AI**: Foundation models, generative AI, domain adaptation, and transfer learning.
-- **Healthcare**: Brain/cardiac imaging, and cancer diagnosis/treatment.
-- **Scientific Discovery**: Protein engineering, and drug/materials discovery.
+- **Healthcare**: Brain and cardiac imaging, and cancer diagnosis and treatment.
+- **Scientific discovery**: Protein engineering, and drug and materials discovery.
 
 I lead the development of the open-source software library [PyKale](https://github.com/pykale/pykale), part of the [PyTorch ecosystem](https://pytorch.org/ecosystem/), enabling accessible machine learning for interdisciplinary research.
 
-🏅 I serve as an Associate Editor of [IEEE Transactions on Neural Networks and Learning Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385) and [IEEE Transactions on Cognitive and Developmental Systems](https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=7274989). My awards include a [Turing Network Development Award](https://www.turing.ac.uk/work-turing/turing-network-development-awards-call), an [Amazon Research Award](https://www.amazon.science/research-awards/recipients/haiping-lu), and joint [Wellcome Trust Innovator](https://app.dimensions.ai/details/grant/grant.10029221) and [NIHR AI in Health and Care](https://www.nihr.ac.uk/documents/ai-in-health-and-care-awards-funded-projects-2020/25625#Phase_2_projects) awards.
+🧩 **Editorial Service**
+- Editorial Board Member, *Science and AI* (Springer Nature), 2026–present
+- Associate Editor, *IEEE Transactions on Neural Networks and Learning Systems*, 2022–2025
+- Associate Editor, *IEEE Transactions on Cognitive and Developmental Systems*, 2022–2025
 
-<!-- 📘 Three of my MSc dissertation students have won the Fretwell-Downing Prize for the best MSc Dissertation: [Peizhen Bai](https://haipinglu.github.io/authors/peizhen-bai/) (2017), [Hao Xu](https://haipinglu.github.io/authors/hao-xu/) (2019), and [Mohammod N. I. Suvon](https://haipinglu.github.io/authors/mohammod-suvon/) (2022). Learn more about the [whereabouts](https://haipinglu.github.io/#people) of my past team members. -->
+🏅 **Selected Awards**
+- [Turing Network Development Award](https://www.turing.ac.uk/work-turing/turing-network-development-awards-call)
+- [Amazon Research Award](https://www.amazon.science/research-awards/recipients/haiping-lu)
+- [NIHR AI in Health and Care Award](https://www.nihr.ac.uk/documents/ai-in-health-and-care-awards-funded-projects-2020/25625#Phase_2_projects)
+- [Wellcome Trust Innovator Awards: Digital Technologies](https://app.dimensions.ai/details/grant/grant.10029221)
+
 
 ***
-📩 **PhD enquiries**: Email me **ONE PDF** including your CV, a statement on why and your **source of funding**, 1-3 papers, and transcripts *before* applying. Also check the [English language](https://www.sheffield.ac.uk/postgraduate/phd/apply/english-language) requirements.
-
+📩 **PhD enquiries**: Please email me **ONE PDF** including your CV, a statement of motivation and **source of funding**, 1–3 representative papers, and transcripts *before* applying. Please also check the [English language requirements](https://www.sheffield.ac.uk/postgraduate/phd/apply/english-language).
 
 <!-- **[PhD Scholarship](https://www.sheffield.ac.uk/postgraduate/phd/scholarships)**: [EPSRC DTP](https://epsrc.ukri.org/skills/students/dta/grants/) (*deadline: 24th March 2022*). -->
 
 <!-- ***
 **NOTE: under construction**. -->
+
+<!-- 📘 Three of my MSc dissertation students have won the Fretwell-Downing Prize for the best MSc Dissertation: [Peizhen Bai](https://haipinglu.github.io/authors/peizhen-bai/) (2017), [Hao Xu](https://haipinglu.github.io/authors/hao-xu/) (2019), and [Mohammod N. I. Suvon](https://haipinglu.github.io/authors/mohammod-suvon/) (2022). Learn more about the [whereabouts](https://haipinglu.github.io/#people) of my past team members. -->
