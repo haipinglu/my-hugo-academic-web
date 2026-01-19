@@ -78,6 +78,7 @@ user_groups:
 - Principal Investigators
 ---
 
+<!-- *** -->
 <!-- **PhD Opportunity:** Co-supervising a [PhD project](https://www.findaphd.com/phds/project/advancing-blood-pressure-monitoring-with-wearable-technology-and-multimodal-ai-s3-5-com-sun/?p188983) on wearable technology and multimodal AI with [Dr Shaoxiong Sun](https://sheffield.ac.uk/cs/people/academic/shaoxiong-sun), aligned with our deployment-centric multimodal AI vision. -->
 
 <!-- 📢 We are hiring [AI Research Engineer / Senior AI Research Engineer (G6/7) positions](https://jobsite.sheffield.ac.uk/job/AI-Research-Engineer-Senior-AI-Research-Engineer/1615-en_GB) — apply by 22 October 2025. -->
@@ -86,7 +87,7 @@ user_groups:
 
 <!-- 📢 [MultimodalAI’25](https://multimodalai.github.io/multimodalai25/), the UK’s flagship community workshop on multimodal AI, will be held on 16–17 September 2025 at the Barbican Centre, London, hosted by [UKOMAIN](https://multimodalai.github.io/). You can now [register](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-engineering/computer-science/third-workshop-on-multimodal-ai), [submit an abstract](https://forms.gle/82gbPCu5tBkCm8i29) by **15 July 2025**, or [become a sponsor](https://multimodalai.github.io/call-for-sponsorship/). -->
 
-***
+<!-- *** -->
 
 <!-- **Job**: [Senior AI Research Engineer / AI Research Engineer opening](https://www.jobs.ac.uk/job/DFM241/ai-research-engineer-senior-ai-research-engineer). *Deadline: 5th February 2024*. Fixed term to start from as soon as possible until 31 March 2025. -->
 
