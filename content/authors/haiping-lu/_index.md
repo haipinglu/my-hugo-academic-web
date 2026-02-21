@@ -47,7 +47,7 @@ social:
   link: mailto:h.lu@sheffield.ac.uk
 - icon: linkedin
   icon_pack: fab
-  link: https://uk.linkedin.com/in/haiping-lu
+  link: https://www.linkedin.com/in/haiping-lu
 - icon: github
   icon_pack: fab
   link: https://github.com/haipinglu
