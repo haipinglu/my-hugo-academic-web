@@ -81,6 +81,9 @@ user_groups:
 ➡️[Register by 9 March 2026](https://forms.gle/L1Z5XdYksX8EvqhG9) for the [Second Multimodal AI Community Forum](https://multimodalai.github.io/multimodalai-forum26/) | Online, 11 March 2026 |
 Flash talk submission due by 4 March 2026
 
+📢 We are hiring an [AI Research Engineer / Senior AI Research Engineer](https://jobsite.sheffield.ac.uk/job/AI-Research-Engineer-Senior-AI-Research-Engineer/2214-en_GB/) — apply by 11 March 2026
+
+
 ➡️[Sign up](https://forms.gle/NvS4dd2jZTbwazEc6) for the UKOMAIN Interest Groups - help shape tangible outputs in multimodal AI
 
 ➡️[Call for sponsorship](https://multimodalai.github.io/multimodalai26-sponsorship/) | [Fourth Workshop on Multimodal AI](https://multimodalai.github.io/multimodalai26/) | 11–12 June 2026, London
