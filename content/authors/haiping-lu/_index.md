@@ -121,7 +121,7 @@ Medical Image Analysis](https://jobs.shef.ac.uk/sap/bc/webdynpro/sap/hrrcf_a_pos
 
 🏛️ I am a Professor of Machine Learning at the [School of Computer Science](http://www.sheffield.ac.uk/cs) and the Head of [AI Research Engineering](https://shef-aire.github.io/) at the [Centre for Machine Intelligence](https://www.sheffield.ac.uk/ai), University of Sheffield. I am also the Director of the [UK Open Multimodal AI Network (UKOMAIN)](https://multimodalai.github.io/), funded by [EPSRC](https://www.ukri.org/councils/epsrc/), building on the [Meta-learning for Multimodal Data](https://www.turing.ac.uk/research/interest-groups/meta-learning-multimodal-data) interest group at the [Alan Turing Institute](https://www.turing.ac.uk/).
 
-Follow our [UKOMAIN LinkedIn page](https://www.linkedin.com/company/ukomain) for updates and opportunities, or subscribe to the [Multimodal AI Community mailing list](https://groups.google.com/a/sheffield.ac.uk/g/multimodal-ai-community-group).
+Follow the [UKOMAIN LinkedIn page](https://www.linkedin.com/company/ukomain) for network updates and opportunities, and subscribe to the [Multimodal AI Community mailing list](https://groups.google.com/a/sheffield.ac.uk/g/multimodal-ai-community-group).
 
 🖥️ My research focuses on **deployment-centric multimodal AI** for healthcare and scientific discovery:
 - **Multimodal AI**: Foundation models, generative AI, domain adaptation, and transfer learning.
