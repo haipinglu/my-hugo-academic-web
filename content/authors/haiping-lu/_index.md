@@ -78,10 +78,10 @@ user_groups:
 - Principal Investigators
 ---
 
-<!-- ⏰ [Register by 9 March 2026](https://forms.gle/L1Z5XdYksX8EvqhG9) for the [Second Multimodal AI Community Forum](https://multimodalai.github.io/multimodalai-forum26/) | Online, 11 March 2026 
+<!-- ⏰ [Register by 9 March 2026](https://forms.gle/L1Z5XdYksX8EvqhG9) for the [Second Multimodal AI Community Forum](https://multimodalai.github.io/multimodalai-forum26/) | Online, 11 March 2026 -->
 <!-- | Flash talk submission due by 4 March 2026 -->
 
-<!-- 📢 We are hiring an [AI Research Engineer / Senior AI Research Engineer](https://jobsite.sheffield.ac.uk/job/AI-Research-Engineer-Senior-AI-Research-Engineer/2214-en_GB/) — apply by 11 March 2026 --> -->
+<!-- 📢 We are hiring an [AI Research Engineer / Senior AI Research Engineer](https://jobsite.sheffield.ac.uk/job/AI-Research-Engineer-Senior-AI-Research-Engineer/2214-en_GB/) — apply by 11 March 2026 --> 
 
 📢 [Funding call: Open Multimodal AI Benchmark Round 2 (OMAIB-R2)](https://multimodalai.github.io/omaib-r2/) — [Expression of Interest](https://forms.gle/EaTFer4H1zGHEqKd6) by 16:00, 7 May 2026.
 
