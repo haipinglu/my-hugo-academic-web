@@ -83,9 +83,9 @@ user_groups:
 
 <!-- 📢 We are hiring an [AI Research Engineer / Senior AI Research Engineer](https://jobsite.sheffield.ac.uk/job/AI-Research-Engineer-Senior-AI-Research-Engineer/2214-en_GB/) — apply by 11 March 2026 --> 
 
-📢 [Funding call: Open Multimodal AI Benchmark Round 2 (OMAIB-R2)](https://multimodalai.github.io/omaib-r2/) — [Expression of Interest](https://forms.gle/EaTFer4H1zGHEqKd6) by 16:00, 7 May 2026.
+<!-- 🤝 [Funding call: Open Multimodal AI Benchmark Round 2 (OMAIB-R2)](https://multimodalai.github.io/omaib-r2/) — [Expression of Interest](https://forms.gle/EaTFer4H1zGHEqKd6) by 16:00, 7 May 2026. -->
 
-🤝 [Fourth Workshop on Multimodal AI](https://multimodalai.github.io/multimodalai26/) | [Call for abstracts](https://forms.gle/dQ37m7xPzYLVvJKQA) by 6 May 2026 | [Early bird registration](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-engineering/computer-science/fourth-workshop-on-multimodal-ai) by 18 May 2026 | [Call for sponsorship](https://multimodalai.github.io/multimodalai26-sponsorship/) | 11–12 June 2026, London
+📢 [Fourth Workshop on Multimodal AI](https://multimodalai.github.io/multimodalai26/) | [Early bird registration](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-engineering/computer-science/fourth-workshop-on-multimodal-ai) by 18 May 2026 | [Call for sponsorship](https://multimodalai.github.io/multimodalai26-sponsorship/) | 11–12 June 2026, London
 
 📝 [Sign up](https://forms.gle/NvS4dd2jZTbwazEc6) for the UKOMAIN Interest Groups - help shape tangible outputs in multimodal AI
 
