@@ -85,7 +85,7 @@ user_groups:
 
 <!-- 🤝 [Funding call: Open Multimodal AI Benchmark Round 2 (OMAIB-R2)](https://multimodalai.github.io/omaib-r2/) — [Expression of Interest](https://forms.gle/EaTFer4H1zGHEqKd6) by 16:00, 7 May 2026. -->
 
-📢 [Fourth Workshop on Multimodal AI](https://multimodalai.github.io/multimodalai26/) |   [Hackathon (10 June) registration](https://forms.gle/hWu1JnD9p3EruVC87)  closes 4 June | [Workshop registration](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-engineering/computer-science/fourth-workshop-on-multimodal-ai)  closes 5 June | 11–12 June 2026, London
+<!-- 📢 [Fourth Workshop on Multimodal AI](https://multimodalai.github.io/multimodalai26/) |   [Hackathon (10 June) registration](https://forms.gle/hWu1JnD9p3EruVC87)  closes 4 June | [Workshop registration](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-engineering/computer-science/fourth-workshop-on-multimodal-ai)  closes 5 June | 11–12 June 2026, London -->
 
 
 
