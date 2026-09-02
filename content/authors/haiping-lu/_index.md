@@ -57,12 +57,12 @@ social:
 - icon: youtube
   icon_pack: fab
   link: https://www.youtube.com/c/haipinglu
-- icon: blogger-b
-  icon_pack: fab
-  link: https://medium.com/@haipinglu/
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/haipinglu
+#- icon: blogger-b
+#  icon_pack: fab
+#  link: https://medium.com/@haipinglu/
+# - icon: twitter
+# icon_pack: fab
+#  link: https://twitter.com/haipinglu
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
@@ -89,9 +89,9 @@ user_groups:
 
 
 
-📝 [Sign up](https://forms.gle/NvS4dd2jZTbwazEc6) for the UKOMAIN Interest Groups - help shape tangible outputs in multimodal AI
+<!-- 📝 [Sign up](https://forms.gle/NvS4dd2jZTbwazEc6) for the UKOMAIN Interest Groups - help shape tangible outputs in multimodal AI -->
 
----
+<!-- --- -->
 
 <!-- **PhD Opportunity:** Co-supervising a [PhD project](https://www.findaphd.com/phds/project/advancing-blood-pressure-monitoring-with-wearable-technology-and-multimodal-ai-s3-5-com-sun/?p188983) on wearable technology and multimodal AI with [Dr Shaoxiong Sun](https://sheffield.ac.uk/cs/people/academic/shaoxiong-sun), aligned with our deployment-centric multimodal AI vision. -->
 
@@ -128,8 +128,8 @@ Medical Image Analysis](https://jobs.shef.ac.uk/sap/bc/webdynpro/sap/hrrcf_a_pos
 
 🖥️ My research focuses on **deployment-centric multimodal AI** for healthcare and scientific discovery:
 - **Multimodal AI**: Foundation models, generative AI, domain adaptation, and transfer learning.
-- **Healthcare**: Brain and cardiac imaging, and cancer diagnosis and treatment.
-- **Scientific discovery**: Protein engineering, and drug and materials discovery.
+- **Healthcare**: Cancer research, brain imaging and cardiac imaging.
+- **Scientific discovery**: Protein engineering, drug discovery and materials discovery.
 
 I lead the development of the open-source software library [PyKale](https://github.com/pykale/pykale), part of the [PyTorch ecosystem](https://pytorch.org/ecosystem/), enabling accessible machine learning for interdisciplinary research.
 
@@ -146,7 +146,9 @@ I lead the development of the open-source software library [PyKale](https://gith
 
 
 ***
-📩 **PhD enquiries**: Please email me **ONE PDF** including your CV, a statement of motivation and **source of funding**, 1–3 representative papers, and transcripts *before* applying. Please also check the [English language requirements](https://www.sheffield.ac.uk/postgraduate/phd/apply/english-language).
+📩 **PhD enquiries**: Please complete this short [enquiry form](https://forms.gle/R8e8JScmRy35pTn86) before emailing me or applying. You will need a CV, funding details, and representative research and code samples. I can only reply to shortlisted candidates. Please also check the [English language requirements](https://www.sheffield.ac.uk/postgraduate/phd/apply/english-language).
+
+💼 **Internship enquiries**: I am not currently able to host remote internships or self-arranged short-term research placements. Any formal internship opportunities will be advertised on this website. Please do not send speculative internship requests, as I cannot respond individually.
 
 <!-- **[PhD Scholarship](https://www.sheffield.ac.uk/postgraduate/phd/scholarships)**: [EPSRC DTP](https://epsrc.ukri.org/skills/students/dta/grants/) (*deadline: 24th March 2022*). -->
 
