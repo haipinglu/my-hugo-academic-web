@@ -146,7 +146,7 @@ I lead the development of the open-source software library [PyKale](https://gith
 
 
 ***
-📩 **PhD enquiries**: Please complete this short [enquiry form](https://forms.gle/R8e8JScmRy35pTn86) before emailing me or applying. You will need a CV, funding details, and representative research and code samples. I can only reply to shortlisted candidates. Please also check the [English language requirements](https://www.sheffield.ac.uk/postgraduate/phd/apply/english-language).
+📩 **PhD enquiries: Funded PhD positions are advertised here; none are available unless listed.** Please complete this short [enquiry form](https://forms.gle/R8e8JScmRy35pTn86) before emailing me or applying. You will need a CV, funding details, and representative research and code samples. I can only reply to shortlisted candidates. Please also check the [English language requirements](https://www.sheffield.ac.uk/postgraduate/phd/apply/english-language).
 
 💼 **Internship enquiries**: I am not currently able to host remote internships or self-arranged short-term research placements. Any formal internship opportunities will be advertised on this website. Please do not send speculative internship requests, as I cannot respond individually.
 
