@@ -78,6 +78,8 @@ user_groups:
 - Principal Investigators
 ---
 
+ 📢 Call for [challenge proposals](https://forms.gle/zgMfoM68AiF7mvWz8) due **16:00 6 Nov 2026** - part of the £200,000 [Challenge-led Open Multimodal AI Benchmark funding call](https://multimodalai.github.io/omaib-r3/)
+
 <!-- ⏰ [Register by 9 March 2026](https://forms.gle/L1Z5XdYksX8EvqhG9) for the [Second Multimodal AI Community Forum](https://multimodalai.github.io/multimodalai-forum26/) | Online, 11 March 2026 -->
 <!-- | Flash talk submission due by 4 March 2026 -->
 
